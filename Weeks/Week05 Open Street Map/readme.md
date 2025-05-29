@@ -2,7 +2,7 @@
 marp: true
 theme: uncover
 headingDivider: 3
-footer: UP221 | Intro to GIS and Spatial Data Science ![width:30px](../images/globe.png)
+footer: PA405 | Intro to GIS and Spatial Data Science ![width:30px](../images/globe.png)
 paginate: true
 
 ---
@@ -28,20 +28,17 @@ Open Street Map (OSMNX)
 
 </xl>
 
-[Recurring Zoom link for Winter 2025](https://ucla.zoom.us/j/92932552160?pwd=1SjIMPWzWJv8mmyb7pbQX1IOickbAp.1)
+[Course zoom link for Summer Quarter 2025](https://ucla.zoom.us/j/95264672205?pwd=tcbEUfAy5GXNpXtf01UTrO1dnk2IQj.1)
 
-February 3, 2025
+July 22, 2025
 
 ## Let's pull
 
-First, grab the course material, and "pull" it into your JupyterHub:
+* First, grab the course material, and "pull" it into your JupyterHub space:
 
-* [UP221 Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcgiamarino9%2F25W-UP221&urlpath=lab%2Ftree%2F25W-UP221%2F&branch=main) 
-(This link will automatically launch JupyterHub and clone the course material into your directory). 
+* [Git related](https://github.com/cgiamarino9/PubAff405_S25/blob/main/Git%20related/01%20-%20Getting%20started%20every%20week.md) 
 
-<small>Note that you have to do this at the start of every lecture to get the latest material.
-</small>
-
+* <small>Note that you have to do this at the start of every lecture to get the latest material.</small>
 ##
 <xl>
 
@@ -61,14 +58,14 @@ First, grab the course material, and "pull" it into your JupyterHub:
 
 ## Lab: Part 2
 <xl>
-    Group time!
+    Project time!
 </xl>
 
 
-## [Midterms (Materials due 2pm Monday, February 10 the day of class!)](https://github.com/cgiamarino9/25W-UP221/tree/main/Midterm%20and%20Finals#midterms-20-of-your-final-grade)
-- Presentations
-  -  12 minutes per group
-  -  Each group member must present a portion of the project, for roughly an equal time of the presentation
+## [Midterms (Materials due 6pm Tuesday, July 29th the day of class!)](https://github.com/cgiamarino9/PubAff405_S25/tree/main/Midterm%20and%20Finals#midterms-20-of-your-final-grade)
+### Upload your pre-recorded presentation to your Google Drive, share the link to your GitHub along with your notebooks and slide deck.
+- Pre-recorded presentations (we will not meet)
+  -  8-10 minutes per project
   -  You can use any form of visual aids, including powerpoints, google slides, spreadsheets, and/or JupyterNotebooks
   -  Prepare and rehearse
   -  Most importantly, tell a story, and convey why this is an important issue that warrants our attention
@@ -80,4 +77,11 @@ First, grab the course material, and "pull" it into your JupyterHub:
   - Talk to the audience, not your computer or the screen
   - Show your passion!
 
-**Submit your midterm materials [here](https://github.com/cgiamarino9/25W-UP221/discussions/9)**
+**Submit your midterm materials [here](https://my.uclaextension.edu/courses/55582/modules/items/3496643)**
+
+## Peer feedback
+- Provide constructive feedback to one project's recording, notebooks, and slides
+  - Be specific in what you liked about the project presentation
+  - What visuals, charts, and maps stood out, and why?
+  - What could be improved?
+  - Were there any analyses or libraries used that you are curious about? 

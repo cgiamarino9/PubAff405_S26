@@ -2,7 +2,7 @@
 marp: true
 theme: uncover
 headingDivider: 3
-footer: UP221 | Intro to GIS and Spatial Data Science ![width:30px](../images/globe.png) 
+footer: PA405 | Intro to GIS and Spatial Data Science ![width:30px](../images/globe.png)
 paginate: true
 
 ---
@@ -17,7 +17,6 @@ plum {padding:20px;background-color:plum;line-height:3}
 xl { font-size:2.5em;font-weight:100;line-height:1}
 h1,h2,h3,h4,h5{font-family:serif}
 section {font-size:2em;font-weight:300;}
-left {text-align:left;}
 </style>
 
 # Week 4
@@ -28,9 +27,10 @@ Open Data Exploration
 
 </xl>
 
-[Recurring Zoom link for Winter 2025](https://ucla.zoom.us/j/92932552160?pwd=1SjIMPWzWJv8mmyb7pbQX1IOickbAp.1)
+[Course zoom link for Summer Quarter 2025](https://ucla.zoom.us/j/95264672205?pwd=tcbEUfAy5GXNpXtf01UTrO1dnk2IQj.1)
 
-January 27, 2025
+July 15, 2025
+
 
 ##
 <xl>
@@ -41,23 +41,24 @@ January 27, 2025
 
 
 
-[30 minute group meeting with instructor sheet](https://docs.google.com/spreadsheets/d/1DXqucpqfVam-1Jj9m8cBfWfkWU_akzfykvCaca7HxXY/edit?usp=sharing) 
 
-</xl>
-<br>
+
+<xl>
+
+
+### Meeting with instructor
 <p style="text-align: left"> 
-If you and your group would like to meet with me for 30 minutes to discuss your proposal, data sources, and python modules/libraries that may benefit your project, please sign up for a time slot on the Google Sheet. Otherwise, I will provide a detailed email with feedback, additional data sources, and python library modules and funcions you will want to look into for your group projects before the midterm on week 6. Send me an email if you would like to schedule an alternative time. </p>
+If you would like to meet with me for 30 minutes to discuss your proposal, data sources, and python modules/libraries that may benefit your project, please email me. Otherwise, I will provide a detailed email with feedback, additional data sources, and python library modules and funcions you will want to look into for your projects before the midterm on week 6. Send me an email if you would like to schedule an alternative time. </p>
+</xl>
 
 
 
 ## Hands on Lab
-First, grab the course material, and "pull" it into your JupyterHub:
+* First, grab the course material, and "pull" it into your JupyterHub space:
 
-* [UP221 Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcgiamarino9%2F25W-UP221&urlpath=lab%2Ftree%2F25W-UP221%2F&branch=main) 
-(This link will automatically launch JupyterHub and clone the course material into your directory)
+* [Git related](https://github.com/cgiamarino9/PubAff405_S25/blob/main/Git%20related/01%20-%20Getting%20started%20every%20week.md) 
 
-<small>Note that you have to do this at the start of every lecture to get the latest material.
-</small>
+* <small>Note that you have to do this at the start of every lecture to get the latest material.</small>
 
 ## Lab: Part 1
 <xl>
@@ -72,10 +73,10 @@ Mapping arrests
 </xl>
 
 
-# Assignments (due 11:59 Sunday, February 2 the day before class)
+# Assignments (due 11:59pm  Monday, July 21 the day before class)
 
 
-## Mini Group Assignment
+## Mini Project Assignment
 
 <left>
 
@@ -93,8 +94,8 @@ Include the following sections:
 <small>
 
 * **Project title and link to proposal**
-* **Roles**: Give each team member a title, and define what role each team member will play, and how each person plans to contribute to the project. While this may be subject to change, it is a good idea to define this early in the project to clarify "who is doing what."
-* **Status update**: Report on the general mood of the team, and provide details as to what is working, and what is not.
+* **Roles**: Give your project a title and how you will contribute to the project. While this may be subject to change, it is a good idea to define this early in the project to clarify "who is doing what."
+* **Status update**: Report on the general mood of your project, and provide details as to what is working, and what is not.
 * **Data update**: Provide a short narrative on where you are with the data sources you will incorporate in your project. Provide links as necessary.
 * **Concerns**: There should be a lot to be concerned about at this phase of the project. List those concerns and classify them as "Major concerns" and/or "Minor concerns."
 
@@ -102,7 +103,7 @@ Include the following sections:
 
 ### Submit
 
-Submit your updated proposal [here](https://github.com/cgiamarino9/25W-UP221/discussions/8).
+Submit your updated proposal [here](https://my.uclaextension.edu/courses/55582/assignments/987737?module_item_id=3496641).
 
 ## Individual Coding Assignment
 
@@ -127,6 +128,6 @@ This assignment can be as long or as short as you desire. It is meant to review 
 - provide ample markdown cells (preferrably before and after each code cell) that explains what you are going to do, and how you interpret the results)
 - upload your notebook to your GitHub account
 
-Submit a link to your notebook [here](https://github.com/cgiamarino9/25W-UP221/discussions/7).
+Submit a link to your notebook [here](https://my.uclaextension.edu/courses/55582/assignments/987738?module_item_id=3496642).
 
 

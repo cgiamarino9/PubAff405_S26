@@ -84,7 +84,7 @@ Weekly course materials, including presentations, interactive notebooks (.ipynb)
 
 ## Assignments and Evaluation
 
-All assignments, unless otherwise specified, must be posted to Canvas through URLs that are linked to your individual GitHub accounts by midnight of the Sunday prior to our class on Tuesday. Assignments are posted in each weekly Module on Canvas, so make sure to read the instructions carefully. 
+All assignments, unless otherwise specified, must be posted to Canvas through URLs that are linked to your individual GitHub accounts by midnight of the Monday prior to our class on Tuesday. Assignments are posted in each weekly Module on Canvas, so make sure to read the instructions carefully. 
 
 - Participation, individual progress, coding and reading assignments 10%
 - Project assignments 40%
