@@ -61,7 +61,7 @@ Specifically, students will learn to:
 The following applications must be launched at the start of every class session:
 
 - Zoom: In order for instructors to be able to troubleshoot, or to demonstrate solutions to problems, it is constructive for students to share their screens with the class. In addition, in-class presentations (midterms, finals) will use a shared zoom screen to present content to the class.
-- Slack: Sharing resources, code snippets, and general commentary on class material is better situated in Slack, as unlike the zoom chat, the records are archived and made available after class. 
+- Slack: Sharing resources, code snippets, and general commentary on class material is better situated in Slack, as unlike the zoom chat, the records are archived and made available after class. Click [Slack Invite link here](https://join.slack.com/t/pa405-summer25/shared_invite/zt-36rvbqwog-CXuqeILVMfaiOBQxfKjymg)
 - Canvas: I encourage students to interact via the Discussion board on the course Canvas website to troubleshoot code, 
 
 ## Inspirations
@@ -72,7 +72,7 @@ Third, we have taken the liberty (with permission) to borrow ideas and materials
 
 ## Course materials
 
-The course will almost entirely be conducted on Jupyter Notebooks. We will access JupyterLab notebooks and GitHub through Anaconda [an open source Python portal](https://www.anaconda.com/download). We will set up [JupyterLab](https://jupyter.idre.ucla.edu), a local Jupyter Notebook environment for this class. To set up your JupyterLab locally on your laptop, please follow this [tutorial](). Here are links to the course materials:
+The course will almost entirely be conducted on Jupyter Notebooks. We will access JupyterLab notebooks and GitHub through Anaconda [an open source Python portal](https://www.anaconda.com/download). We will set up [JupyterLab](https://docs.jupyter.org/en/latest/), a local Jupyter Notebook environment for this class. To set up your JupyterLab locally on your laptop, please follow this [tutorial](https://github.com/cgiamarino9/PubAff405_S25/blob/main/Git%20related/01%20-%20Getting%20started%20every%20week.md). Here are links to the course materials:
 
 * [Course syllabus and website](https://github.com/cgiamarino9/PubAff405_S25/blob/main/README.md)
 * [Downloading Anaconda](https://www.anaconda.com/download) 
