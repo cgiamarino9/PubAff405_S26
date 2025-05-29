@@ -42,11 +42,11 @@ This is an extension of your mid-term project. To review:
 1. Create 3 or more static data visualizations, such as scatter plots, histograms, bar charts, line graphs, etc.
 1. Create 3 or more maps, including at least 1 choropleth map
 
-### Final Deliverables
+### Final Deliverable
 
 Submit links and attachments to the following items on Canvas under the 'Final Project' assignment submission link.
 
-**Create a website (due the Sunday before Week 11 by 11:59 pm with presentation materials and notebooks)** (using Google Sites) telling the story of your analysis in 1500+ words (not including tables, figures, captions, or references). Incorporate the visualizations and analytical results into your narrative. You are welcome to create a narrative of your own style (i.e. journalistic, infographic, etc) as long as the spatial science strongly informs and validates the urban problematic you are addressing. Otherwise, you are welcome to stick with the traditional research outline, organizing your material into five sections: 
+**Create a website (due the Monday before Week 11 by 5:59 pm with presentation materials and notebooks)** (using Google Sites) telling the story of your analysis in 1500+ words (not including tables, figures, captions, or references). Incorporate the visualizations and analytical results into your narrative. You are welcome to create a narrative of your own style (i.e. journalistic, infographic, etc) as long as the spatial science strongly informs and validates the urban problematic you are addressing. Otherwise, you are welcome to stick with the traditional research outline, organizing your material into five sections: 
 1. Introduction (provide an overview of your entire project)
 2. Background (explain the context, prior work, and motivation leading to your research question). 
 3. Methods (explain your data and your analytical process). 
@@ -59,7 +59,7 @@ At the top of the site, include your name, the date, your project title.
 
 [Creating GitHub Pages website for interactive map HTML](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 
-**Presentation (due the Sunday before Week 11 by 11:59 pm with presentation materials and notebooks; with story map, site, or report)**. During finals week, you will submit a Zoom recording of your 10-minute presentation to present your project to the class.
+**Pre-recorded presentation (due the the Monday before Week 11 by 5:59 pm with presentation materials and notebooks; with story map, site, or report)**. During finals week, you will submit a Zoom recording of your 10-minute presentation to present your project to the class.
 
 *  Follow the [TED presentation guidelines](https://www.ted.com/participate/organize-a-local-tedx-event/tedx-organizer-guide/speakers-program/prepare-your-speaker/create-prepare-slides)
 *  Do not present your storymap

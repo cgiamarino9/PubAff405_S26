@@ -80,7 +80,7 @@ Mapping arrests
 
 <left>
 
-For this week's group assignment, meet with your group members and submit a status report as a markdown file in your group repo. This will simply be graded as a "done" or "not done" and count towards your participation grade.
+For this week's project assignment, submit a status report as a markdown file in your project repo. This will simply be graded as a "done" or "not done" and count towards your participation grade.
 </left>
 
 ### Instructions
