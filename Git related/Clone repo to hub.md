@@ -2,7 +2,7 @@
 
 Go to your class repo page. The URL should look something like this: 
 
-`https://github.com/your_name/up221`
+`https://github.com/your_name/pa405`
 
 Copy the clone URL:
 
