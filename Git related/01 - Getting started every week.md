@@ -1,8 +1,8 @@
-# Installing anaconda, github and jupyter lab
+# Installing anaconda, github and jupyter lab (Windows)
 
 Before we start class, you will need to install Anaconda, Git, and Jupyter Lab. Anaconda is a user-friendly python environment that allows you to run jupyter notebooks and publish your work throughout the quarter to GitHub via the [git extension](https://github.com/jupyterlab/jupyterlab-git). 
 
-* Install [Anaconda](https://www.anaconda.com/download). 
+* Install [Anaconda](https://www.anaconda.com/download). You can sign up for free.
 
 * In your search bar, type in `anaconda prompt`. 
 
@@ -18,8 +18,25 @@ Before we start class, you will need to install Anaconda, Git, and Jupyter Lab. 
 
 <kbd><img src="images/conda3.png"></kbd>
 
-# Getting started each week
-At the start of each week, you will be asked to update the class repository. Note that this is different from your own personaly repository. To do so, follow these instructions.
+# Installing anaconda, github and jupyter lab (Mac)
+
+Before we start class, you will need to install Anaconda, Git, and Jupyter Lab. Anaconda is a user-friendly python environment that allows you to run jupyter notebooks and publish your work throughout the quarter to GitHub via the [git extension](https://github.com/jupyterlab/jupyterlab-git). 
+
+* Install [Anaconda](https://www.anaconda.com/download). You can sign up for free.
+
+* Follow this [tutorial](https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac) to open up the Terminal app on your Mac. 
+
+* Next, install the git extension via these two methods [#1](https://github.com/jupyterlab/jupyterlab-git?tab=readme-ov-file#install) or [#2](https://anaconda.org/conda-forge/jupyterlab-git). Both work! Type the `conda install` command to the anaconda prompt, hit enter, select Y. 
+
+* With your Terminal open, type `conda install -c conda-forge jupyterlab jupyterlab-git`. Hit Return. 
+
+* Anaconda should have jupyter lab installed by default. To start `jupyter lab` after installing the `git extension` type `jupyter lab` and hit enter. A local internet browser will open. 
+
+* If you get an error message that the git extension is not working, please note the window that pops up is asking you to install the required tools to run Git. You will click install, refresh your jupyter lab environment on your web browser, and Git should be working on jupyter lab. 
+
+
+# Getting started each week (Windows and Mac)
+At the start of each week, you will be asked to update the class repository. Note that this is different from your own personaly repository. To do so, follow these instructions. Please note that the screenshots below are from my PC with Windows OS. The relative logic applies on a Mac when running `jupyter lab` from the Conda or Terminal prompt. 
 
 First, we will clone the course repository and then run a "pull" each week to download the latest course material into JupyterLab.
 
@@ -41,3 +58,8 @@ Note that the link above (git puller) follows the [following set of rules](https
 * We will change the directory via the `cd` command and copy the path to the course repository. Then, we will run `git pull` to download weekly course updates. 
 
 <kbd><img src="images/conda4.png"></kbd> 
+
+* We will run `jupyter lab` each week, open a `Terminal` window from our local lab, switch to the course folder and run `git pull`. 
+
+
+
