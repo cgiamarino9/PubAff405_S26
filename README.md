@@ -129,7 +129,7 @@ Late assignments will be marked down one grade for each day it is late. For exam
 
 ### Preparation
 
-*   Fill out the [pre-class survey](https://github.com/cgiamarino9/PubAff405_S25/blob/main/README.md) 
+*   Fill out the [pre-class survey](https://forms.gle/ktU7tQf7ZwxKpbERA) 
 *   If you do not have a GitHub account, create one for the class
 	*   [GitHub](https://github.com/)
 * 	As a student, you have free access to GitHub Education and GitHub Copilot (AI coding assistance). Please take advantage of these resources by practicing in JupyterHub and VS Code (python text editor)
