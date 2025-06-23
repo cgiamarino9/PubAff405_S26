@@ -2,7 +2,7 @@
 marp: true
 theme: uncover
 headingDivider: 3
-footer: UP221 | Intro to GIS and Spatial Data Science ![width:30px](../images/globe.png)
+footer: PA405 | Intro to GIS and Spatial Data Science ![width:30px](../images/globe.png)
 paginate: true
 
 ---
@@ -20,37 +20,36 @@ section {font-size:2em;font-weight:300;}
 left {text-align:left;}
 </style>
 
-## Week 9: March 3, 2025
+## Week 9: August 26, 2025
 
 
 ![point patterns](images/pp.png)
 
 <xl>
 
-Point pattern analysis
+### Point pattern analysis
 
 </xl>
 
-##
-[Course zoom](https://ucla.zoom.us/j/92932552160?pwd=1SjIMPWzWJv8mmyb7pbQX1IOickbAp.1)
 
+
+
+[Course zoom link for Summer Quarter 2025](https://ucla.zoom.us/j/95264672205?pwd=tcbEUfAy5GXNpXtf01UTrO1dnk2IQj.1)
 
 ## Let's pull
 
-First, grab the course material, and "pull" it into your JupyterHub:
+* First, grab the course material, and "pull" it into your JupyterHub space:
 
-* [UP221 Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcgiamarino9%2F25W-UP221&urlpath=lab%2Ftree%2F25W-UP221%2F&branch=main) 
-(This link will automatically launch JupyterHub and clone the course material into your directory). 
+* [Git related](https://github.com/cgiamarino9/PubAff405_S25/blob/main/Git%20related/01%20-%20Getting%20started%20every%20week.md) 
 
-<small>Note that you have to do this at the start of every lecture to get the latest material.
-</small>
-
+* <small>Note that you have to do this at the start of every lecture to get the latest material.</small>
 ##
 <xl>
 
-This course will be recorded<br><br>🎥
+*Note that this course will be recorded🎥
 
 </xl>
+
 
 
 
@@ -69,21 +68,21 @@ This course will be recorded<br><br>🎥
 
 ## Assignments
 
-Draft of final project storymaps due next week
+Draft of final project website due next week
 
-- [Submission guidelines](https://github.com/cgiamarino9/25W-UP221/tree/main/Midterm%20and%20Finals#final-project-30-of-your-final-grade)
+- [Submission guidelines](https://github.com/cgiamarino9/PubAff405_S25/tree/main/Midterm%20and%20Finals#final-deliverable)
 - Everything else due finals week  
 
-## About Story Maps
+## About Google Sites
 
 <br>
 <left>
 
-Now you can access ArcGIS Online using UCLA SSO. No need to create accounts. You can go to [ArcGIS online at UCLA home page](https://gisucla.maps.arcgis.com/home/index.html) to sign in. if you have questions about sign in, refer to this [libguide](https://guides.library.ucla.edu/c.php?g=1268157). 
+You can create a free website using Google Sites following this [Google Site Tutorial Documentation](https://support.google.com/sites/answer/6372878?hl=en). A complete list of resources are available here for [Google Sites](https://sites.google.com/site/helpdesksites/getting-started/complete-list-of-resources-getting-started). 
 
 
-* [How to embed interactive maps/charts into an ESRI Storymap](https://github.com/cgiamarino9/24W-UP221/blob/main/Weeks/Week09%20Point%20Patterns/W09-Publishing%20interactive%20visualizations.ipynb)
-* [Story Maps Tutorial](https://ucladataguides.readthedocs.io/en/latest/presenting_data/storymaps.html)
-* [ESRI's Story Map Guide](https://storymaps.arcgis.com/stories/429bc4eed5f145109e603c9711a33407)
-* [Getting started with Story Maps](https://storymaps.arcgis.com/stories/cea22a609a1d4cccb8d54c650b595bc4)
+* [How to embed interactive maps/charts into a Google Site](https://support.google.com/sites/answer/90569?hl=en)
+* [Google Site Header Navigation](https://sites.google.com/view/how-to-with-new-sites/navigation)
+* [Full resources for Google Sites](https://sites.google.com/site/helpdesksites/getting-started/complete-list-of-resources-getting-started)
+
 

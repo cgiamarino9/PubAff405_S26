@@ -29,7 +29,7 @@ Open Data Exploration
 
 [Course zoom link for Summer Quarter 2025](https://ucla.zoom.us/j/95264672205?pwd=tcbEUfAy5GXNpXtf01UTrO1dnk2IQj.1)
 
-July 15, 2025
+July 22, 2025
 
 
 ##
@@ -73,7 +73,7 @@ Mapping arrests
 </xl>
 
 
-# Assignments (due 11:59pm  Monday, July 21 the day before class)
+# Assignments (due 11:59pm  Monday, July 28th the day before class)
 
 
 ## Mini Project Assignment
@@ -128,6 +128,7 @@ This assignment can be as long or as short as you desire. It is meant to review 
 - provide ample markdown cells (preferrably before and after each code cell) that explains what you are going to do, and how you interpret the results)
 - upload your notebook to your GitHub account
 
+### Assignment submission link
 Submit a link to your notebook [here](https://my.uclaextension.edu/courses/55582/assignments/987738?module_item_id=3496642).
 
 

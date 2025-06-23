@@ -30,7 +30,7 @@ Open Street Map (OSMNX)
 
 [Course zoom link for Summer Quarter 2025](https://ucla.zoom.us/j/95264672205?pwd=tcbEUfAy5GXNpXtf01UTrO1dnk2IQj.1)
 
-July 22, 2025
+July 29, 2025
 
 ## Let's pull
 
@@ -62,7 +62,7 @@ July 22, 2025
 </xl>
 
 
-## [Midterms (Materials due 6pm Tuesday, July 29th the day of class!)](https://github.com/cgiamarino9/PubAff405_S25/tree/main/Midterm%20and%20Finals#midterms-20-of-your-final-grade)
+## [Midterms (Materials due 6pm Tuesday, August 5th the day of class!)](https://github.com/cgiamarino9/PubAff405_S25/tree/main/Midterm%20and%20Finals#midterms-20-of-your-final-grade)
 ### Upload your pre-recorded presentation to your Google Drive, share the link to your GitHub along with your notebooks and slide deck.
 - Pre-recorded presentations (we will not meet)
   -  8-10 minutes per project

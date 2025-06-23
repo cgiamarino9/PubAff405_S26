@@ -2,7 +2,7 @@
 marp: true
 theme: uncover
 headingDivider: 3
-footer: UP221 | Intro to GIS and Spatial Data Science ![width:30px](../images/globe.png)
+footer: PA405 | Intro to GIS and Spatial Data Science ![width:30px](../images/globe.png)
 paginate: true
 
 ---
@@ -20,19 +20,35 @@ section {font-size:2em;font-weight:300;}
 left {text-align:left;}
 </style>
 
-## Week 10: March 10, 2025
+## Week 10: September 2, 2025
 
 
 <xl>
 
 Final Workshop
 
+
+
 </xl>
 
-[Course Zoom](https://ucla.zoom.us/j/92932552160?pwd=1SjIMPWzWJv8mmyb7pbQX1IOickbAp.1)
 
 
 
+[Course zoom link for Summer Quarter 2025](https://ucla.zoom.us/j/95264672205?pwd=tcbEUfAy5GXNpXtf01UTrO1dnk2IQj.1)
+
+## Let's pull
+
+* First, grab the course material, and "pull" it into your JupyterHub space:
+
+* [Git related](https://github.com/cgiamarino9/PubAff405_S25/blob/main/Git%20related/01%20-%20Getting%20started%20every%20week.md) 
+
+* <small>Note that you have to do this at the start of every lecture to get the latest material.</small>
+##
+<xl>
+
+*Note that this course will be recorded🎥
+
+</xl>
 
 ##
 
@@ -41,16 +57,9 @@ Course evaluation (take 5-10 minutes during class time)
 </xl>
 <br> * Friendly reminder  </br>
 
-## Let's pull (optional if you'd like to look at Metro API and Remote Sensing imagery)
+## Let's pull (optional if you'd like to look at Index creation, Metro API, or Remote Sensing imagery notebooks)
 
 First, grab the course material, and "pull" it into your JupyterHub:
-
-* [UP221 Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcgiamarino9%2F25W-UP221&urlpath=lab%2Ftree%2F25W-UP221%2F&branch=main)  
-(This link will automatically launch JupyterHub and clone the course material into your directory). 
-
-<small>Note that you have to do this at the start of every lecture to get the latest material.
-</small>
-
 
 ## Today's lab is:
 
@@ -60,11 +69,11 @@ Index creation + FINAL PROJECT WORKSHOP!
 ## Final project presentations
 
 
- March 17th, Monday 2pm - 5 pm
+ Due September 9th, Tuesday at 6 pm
 
 </xl>
 
 <br>
 
-- [Submission guidelines](https://github.com/cgiamarino9/25W-UP221/tree/main/Midterm%20and%20Finals#final-project-30-of-your-final-grade)
-- [Submit final materials here](https://github.com/cgiamarino9/25W-UP221/discussions/14)
+- [Submission guidelines](https://github.com/cgiamarino9/PubAff405_S25/tree/main/Midterm%20and%20Finals#final-project-30-of-your-final-grade)
+- [Submit final materials here](https://my.uclaextension.edu/courses/55582/assignments/987735)

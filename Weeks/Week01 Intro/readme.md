@@ -29,7 +29,7 @@ Public Affairs 405: Introduction to GIS and Spatial Data Science
 
 [Course zoom link for Summer Quarter 2025](https://ucla.zoom.us/j/95264672205?pwd=tcbEUfAy5GXNpXtf01UTrO1dnk2IQj.1)
 
-June 24, 2025
+July 1, 2025
 
 ##
 <xl>
@@ -65,9 +65,7 @@ June 24, 2025
 * Sign up for the course [Slack channel](https://join.slack.com/t/pa405-summer25/shared_invite/zt-36rvbqwog-CXuqeILVMfaiOBQxfKjymg). We will collaborate, code, and troubleshoot there. 
 * Check out this [open source and big data document](https://docs.google.com/document/d/1pI-rVx19inCVbT9175Qw3C6WFirRsoFoiigMOTSlmXc/edit?usp=sharing) for links to geospatial data. Add sources; do not delete sources. 
 
-## Meet your TA's
-  * Carl de Joya 
-  * Nick Giorgio
+
 
 ## Logistics
 * Two monitors encouraged
@@ -102,12 +100,12 @@ First, grab the course material, and "pull" it into your JupyterHub space:
 Today's lab will cover the following topics:
 
 *   Introducing GitHub
-*   Introducing JupyterHub
+*   Introducing JupyterLabs
 *   Intro to Python
 
 # Individual Assignments
 
-There are three deliverables this week. Each are due on Monday by midnight. Week 1's assignments are due June 30th, 2025 by 11:59 PM. Each assignment must be posted as GitHub URLs in the Weekly Canvas Module. For example, Week 1's assignments will be under the Week 1 module.
+There are three deliverables this week. Each are due on Monday by midnight. Week 1's assignments are due July 7th, 2025 by 11:59 PM. Each assignment must be posted as GitHub URLs in the Weekly Canvas Module. For example, Week 1's assignments will be under the Week 1 module.
 
 ## #1. Create a GitHub account, and start a new repo
 

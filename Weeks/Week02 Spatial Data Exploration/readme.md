@@ -29,7 +29,7 @@ Spatial Data Exploration
 
 [Course zoom link for Summer Quarter 2025](https://ucla.zoom.us/j/95264672205?pwd=tcbEUfAy5GXNpXtf01UTrO1dnk2IQj.1)
 
-July 1, 2025
+July 8, 2025
 
 ##
 <xl>
@@ -88,7 +88,7 @@ First, grab the course material, and "pull" it into your JupyterHub space:
 </small>
 
 
-# Assignments (due 11:59 pm, Monday, July 7th the day before class)
+# Assignments (due 11:59 pm, Monday, July 14th the day before class)
 
 
 ## Individual assignment: Data Exploration
@@ -154,7 +154,7 @@ Commit your changes to your GitHub repo by following these instructions:
 
 ### Submit your assignment 
 
-The last step is to submit your assignment to the class repo discussion section [here](https://my.uclaextension.edu/courses/55582/assignments/987733?module_item_id=3496628).
+The last step is to submit your assignment to the class repo discussion section [here](https://my.uclaextension.edu/courses/55582/assignments/987733).
 
 # Project Assignment #1
 ## <xl>Project Proposal</xl>
@@ -198,4 +198,4 @@ Your project proposal should include the following:
 *   A concluding paragraph of what insights you expect to gain from your research
 
 ### Step 5: Submit
-Submit your assignment [here](https://my.uclaextension.edu/courses/55582/assignments/987734?module_item_id=3496629)
+Submit your assignment [here](https://my.uclaextension.edu/courses/55582/assignments/987734)

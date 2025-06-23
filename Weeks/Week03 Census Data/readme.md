@@ -29,7 +29,7 @@ Census Data Exploration
 
 [Course zoom link for Summer Quarter 2025](https://ucla.zoom.us/j/95264672205?pwd=tcbEUfAy5GXNpXtf01UTrO1dnk2IQj.1)
 
-July 8, 2025
+July 15, 2025
 
 ##
 <xl>
@@ -48,7 +48,7 @@ July 8, 2025
 
 
 
-# Assignments (due 11:59 pm Monday, July 14th the day before class)
+# Assignments (due 11:59 pm Monday, July 21st the day before class)
 
 
 ## Project Assignment #2

@@ -1,6 +1,6 @@
 # Public Affairs 405: Introduction to GIS and Spatial Data Science
 
-Summer 2025
+Summer 2025, July 1st to September 9th, 2025
 
 Tuesdays online from 6 pm to 9 pm
 
