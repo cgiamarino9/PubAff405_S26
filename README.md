@@ -78,6 +78,7 @@ The course will almost entirely be conducted on Jupyter Notebooks. We will acces
 * [Downloading Anaconda](https://www.anaconda.com/download) 
 * [Running JupyterLab through Anaconda](https://numeconcopenhagen.netlify.app/guides/jupyterlab/) 
 * [Installing GitHub on Anaconda to clone the course repository and your own repository](https://github.com/jupyterlab/jupyterlab-git)
+* [Use pip install for Git extension in Anaconda Prompt (Windows) or Terminal(Mac)](https://github.com/jupyterlab/jupyterlab-git?tab=readme-ov-file#install)
 * [Course slack](https://join.slack.com/t/pa405-summer25/shared_invite/zt-36rvbqwog-CXuqeILVMfaiOBQxfKjymg)
 
 Weekly course materials, including presentations, interactive notebooks (.ipynb), and data will be made available through a course github repository (here) that you will interact with through your laptop via Anaconda, JupyterLab, and GitHub.
