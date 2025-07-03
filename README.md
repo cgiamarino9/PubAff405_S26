@@ -30,7 +30,7 @@ Ben Winjum (bwinjum@ucla.edu)
 
 ## Office Hours: 
 
-* Chris, Thursdays 6 - 8 pm, Virtual via [Recurring Zoom link](https://ucla.zoom.us/j/95264672205?pwd=tcbEUfAy5GXNpXtf01UTrO1dnk2IQj.1)
+* Chris, Thursdays 6 - 7 pm, Virtual via [Recurring Zoom link](https://ucla.zoom.us/j/95264672205?pwd=tcbEUfAy5GXNpXtf01UTrO1dnk2IQj.1)
 
 ## Course Description
 
