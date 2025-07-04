@@ -31,6 +31,10 @@ Ben Winjum (bwinjum@ucla.edu)
 ## Office Hours: 
 
 * Chris, Thursdays 6 - 7 pm, Virtual via [Recurring Zoom link](https://ucla.zoom.us/j/95264672205?pwd=tcbEUfAy5GXNpXtf01UTrO1dnk2IQj.1)
+* If no students show up after the first 20 minutes and I do not receive an email beforehand about when you will attend office hours, I will end the meeting early.
+* If you want to attend during a specific time of office hours, please email me beforehand. 
+* If you need to meet another day/evening of the week virtually, please send me an email. 
+* Thanks for your understanding with regards to office hours and respecting my time outside of Tuesday's class time. 
 
 ## Course Description
 
