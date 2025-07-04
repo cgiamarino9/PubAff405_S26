@@ -17,14 +17,14 @@ There are three deliverables for the mid-term project.
          - produce at least one static map and one interactive map
          - the maps must have at least one data overlay
 
-1. Submit a recorded 10-minute presentation (Zoom recording) under the 'Midterm Assignment' assignment submission link. 
+1. Prepare a 10-minute presentation during class time on Week 6. Submit your slides and midterm notebooks the night before under the 'Midterm Assignment' assignment submission link. 
 
 **Midterm examples**: 
 [Example1](https://docs.google.com/presentation/d/1LK8kfe81yTH3XZDW4RjxljfGGxGyHpbh/edit?usp=sharing&ouid=114100702949630940115&rtpof=true&sd=true). [Example 2](https://docs.google.com/presentation/d/1DyK2YsIfRXRNBksoDekrZJwP6OHZ1fY0yn7ivzh3ZSA/edit?usp=sharing). [Example 3](https://docs.google.com/presentation/d/1ReRYwWcoKqMlBuCwZ2W5z5HkcoUTXymV-OSPSwMkM9Y/edit?usp=sharing).
 
 ### Midterm Deliverables
 
-Submit links and attachments to the following items on Canvas under the 'Midterm Assignment' assignment submission link. 
+Submit links and attachments to your slides and GitHub project folder with your midterm notebooks on Canvas under the 'Midterm Assignment' assignment submission link. 
    
 
 ## Final Project (30% of your final grade)
@@ -59,12 +59,6 @@ At the top of the site, include your name, the date, your project title.
 
 [Creating GitHub Pages website for interactive map HTML](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 
-**Pre-recorded presentation (due the the Monday before Week 11 by 5:59 pm with presentation materials and notebooks; with story map, site, or report)**. During finals week, you will submit a Zoom recording of your 10-minute presentation to present your project to the class.
-
-*  Follow the [TED presentation guidelines](https://www.ted.com/participate/organize-a-local-tedx-event/tedx-organizer-guide/speakers-program/prepare-your-speaker/create-prepare-slides)
-*  Do not present your storymap
-*  Do not read your slides
-*  Tell your story through your data and maps
 
 **Submit your jupyter notebooks (due finals week)**
 
@@ -75,12 +69,5 @@ At the top of the site, include your name, the date, your project title.
 - [Story Map and presentation structure](https://arcg.is/nD5Pf)
 - [grading criteria](https://github.com/cgiamarino9/PubAff405_S25?tab=readme-ov-file#grading-criteria)
 
-**Final examples**: 
-* [Example 1](https://docs.google.com/presentation/d/1hhmEXRqUheoIrORC4sREa3TFJ6OBkmeR/edit?usp=sharing&ouid=114100702949630940115&rtpof=true&sd=true). 
-* [Example 2](https://docs.google.com/presentation/d/1Mq0MnkH4wDH6sTjfQcTFAESgKQlO2HZFm3UKi7Q2b6M/edit?usp=sharing). 
-* [Example 3](https://docs.google.com/presentation/d/1_CAiY4MHeYh7dKEos-bIXYskkd7-G9jEti5-aMSK5SI/edit?usp=sharing).
-
-**Story Maps**: 
-* [Example of storytelling through maps 'The literary life of Octavia E. Butler'](https://www.latimes.com/projects/la-libraries-octavia-butler-books-life/).
-* [Example Google Site from Chinatown Community for Equitable Development](https://sites.google.com/g.ucla.edu/up221-chinatown?pli=1). 
+**Final Example for Google Site**: 
 * [Example Google Site looking at transit equity in Detroit](https://sites.google.com/g.ucla.edu/transitindetroit/home?authuser=1)
