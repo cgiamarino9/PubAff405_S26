@@ -41,7 +41,7 @@ July 8, 2025
 ##
 
 <xl>
-2025 LA Wildfires: Recovery Resources
+Resources for ICE Raids </br>(Day 32)
 </xl>
 
 ##
@@ -49,14 +49,14 @@ July 8, 2025
 <xl> Volunteer, recovery, and relief resources
 <xl>
 
-* Sign up for [BruinALERT](https://oem.ucla.edu/bruinalert) from Office of Emergency Management for UCLA Emergency and Evacuation updates.  
-* Mutual Aid LA [Google Doc resources](https://docs.google.com/spreadsheets/u/1/d/1KMk34XY5dsvVJjAoD2mQUVHYU_Ib6COz6jcGH5uJWDY/htmlview?usp=sharing&fbclid=PAZXh0bgNhZW0CMTEAAaYPJ-9_5yMHnw8jV-zoxTpablIDDM80At2DrBzEjHBljUZsh00Zg9fq81g_aem_Lb1Ux2Ml4lg8tavGSwEp9w)
+* [Comprehensive Know Your Rights Guide Against ICE Raids](https://cd14.lacity.gov/community-resources/know-your-rights#:~:text=Southern%20California%20Rapid%20Response%20Network,%3A%20(213)%20201%2D3773).  
+* [UCLA Labor Raids Resource List](https://labor.ucla.edu/immigration-raids-in-los-angeles-solidarity-statement-and-resource-list/)
 
-* LAist: [Want to help fire victims? Here's what experts say does the most good and places seeking volunteers](https://laist.com/news/climate-environment/how-to-help-la-fire-victims)
+* [How to get involved beyond protesting](https://lapublicpress.org/2025/06/la-protest-resources-ice/)
 
-* LAist: [A quick roundup of SoCal fire coverage and safety resources](https://laist.com/news/climate-environment/southern-california-fires-tips-resources)
+* [Boyle Heights Beat donate, volunteer, support](https://boyleheightsbeat.com/support-donate-volunteer-los-angeles-immigration-raid-protests/)
 
-* LAist: [Help for fire victims](https://laist.com/brief/news/climate-environment/resources-for-socal-fire-victims-evacuees-and-first-responders)
+* [CHIRLA](https://www.chirla.org/)
 
 
 
@@ -65,9 +65,9 @@ July 8, 2025
 <xl> GIS resources
 <xl>
 
-* Watch Duty Live [Wildfire Maps and Evacuation Notifications](https://app.watchduty.org/)
+* [ICEwatch Tactics Map](https://www.immigrantdefenseproject.org/icewatch/)
 
-* [Air Quality map](https://gispub.epa.gov/airnow/)
+* [People over Papers Map](https://boyleheightsbeat.com/ice-raid-tracking-app-los-angeles/)
 
 
 ### Project formation for midterm and final projects
@@ -75,7 +75,7 @@ July 8, 2025
 
 * Open and review the [midterm and final project guidelines](https://github.com/cgiamarino9/PubAff405_S25/tree/main/Midterm%20and%20Finals#midterms-and-finals). </span>
 
-* The form is not graded, but it will help you with your midterm proposal due before Week 3. You are welcome to submit the [project proposal assignment](https://my.uclaextension.edu/courses/55582/assignments/987734?module_item_id=3496629) when your group is ready. It is due July 7th at 11:59 pm. 
+* The form is not graded, but it will help you with your midterm proposal due before Week 3. You are welcome to submit the [project proposal assignment](https://my.uclaextension.edu/courses/55582/assignments/987734?module_item_id=3496629) when your group is ready. It is due July 14th at 11:59 pm. 
 </span>
 
 
@@ -110,6 +110,15 @@ This is your first code assignment submission. Before you begin, create a clone 
 - Find and download a dataset of your choice. This can be a shapefile, csv file, or json file. For many of you, you may have already done this as part of your week 1 assignments.
 - Launch JupyterHub, go to your `pa405` repo folder, and create a `week02` folder.
 - Load the dataset to the `pa405/week02` folder.
+
+### 
+Download git just in case 
+
+* [Git for Windows and Mac installation](https://github.com/git-guides/install-git)
+* [Tutorial for cloning, pushing, and pulling on JupyterLab 'ReviewNB'](https://blog.reviewnb.com/jupyterlab-git-extension/)
+* [Clone, push, pull from JupyterLab to GitHub](https://youtu.be/Rbg2YMWoGGo?si=LJAYsXpcHHoHC4Sa).
+**Please note**: it is recommended that you only upload your data and start your notebooks for individual assignments on JupyterLab and push them to GitHub. GitHub is where you publish your final JupyterLab notebooks. If you start working on GitHub and forget when you did upload to GitHub, you will start running into pull and push errors. 
+* [Creating personal (classic) access token on GitHub](https://medium.com/@mbohlip/how-to-generate-a-classic-personal-access-token-in-github-04985b5432c7)
 
 ### 
 Create a new python notebook 
