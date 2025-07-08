@@ -46,7 +46,7 @@ Resources for ICE Raids </br>(Day 32)
 
 ##
 
-<xl> Volunteer, recovery, and relief resources
+<xl> ICE resources beyond protesting
 <xl>
 
 * [Comprehensive Know Your Rights Guide Against ICE Raids](https://cd14.lacity.gov/community-resources/know-your-rights#:~:text=Southern%20California%20Rapid%20Response%20Network,%3A%20(213)%20201%2D3773).  
