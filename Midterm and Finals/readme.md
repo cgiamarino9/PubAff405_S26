@@ -20,7 +20,7 @@ There are three deliverables for the mid-term project.
 1. Prepare a 10-minute presentation during class time on Week 6. Submit your slides and midterm notebooks the night before under the 'Midterm Assignment' assignment submission link. 
 
 **Midterm examples**: 
-[Example1](https://docs.google.com/presentation/d/1LK8kfe81yTH3XZDW4RjxljfGGxGyHpbh/edit?usp=sharing&ouid=114100702949630940115&rtpof=true&sd=true). [Example 2](https://docs.google.com/presentation/d/1DyK2YsIfRXRNBksoDekrZJwP6OHZ1fY0yn7ivzh3ZSA/edit?usp=sharing). [Example 3](https://docs.google.com/presentation/d/1ReRYwWcoKqMlBuCwZ2W5z5HkcoUTXymV-OSPSwMkM9Y/edit?usp=sharing).
+[Midterm examples from Winter 2025](https://github.com/cgiamarino9/25W-UP221/discussions/9). [Midterm examples from Winter 2024](https://github.com/cgiamarino9/24W-UP221/discussions/8). 
 
 ### Midterm Deliverables
 
