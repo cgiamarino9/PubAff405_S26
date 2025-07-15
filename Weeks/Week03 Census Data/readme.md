@@ -69,6 +69,17 @@ For this project assignment, you will create and submit a Jupyter Notebook with 
 -  you may choose to do a race profile for Los Angeles, and the other member may choose to do the same race profile for New York
 - you may choose to do a transportation profile for Los Angeles, or you may choose an education profile also for Los Angeles
 -  you may choose a different time period to do a temporal analysis.
+- **please see** the lab notebook on tips to download from the [Census data portal](https://data.census.gov/)
+
+### Additional census datasets
+
+- [LA Geohub](https://geohub.lacity.org/search?catalog=public&q=population)
+- [LA County GIS](https://egis-lacounty.hub.arcgis.com/search?categories=%252Fcategories%252Fpeople%2520and%2520community%2C%252Fcategories%252Fpeople%2520and%2520community%252Fcensus%2C%252Fcategories%252Fpeople%2520and%2520community%252Fdemographics%2C%252Fcategories%252Fpeople%2520and%2520community%252Felections%2C%252Fcategories%252Fpeople%2520and%2520community%252Fequity%2C%252Fcategories%252Fpeople%2520and%2520community%252Fhomeless)
+- [Living Atlas GIS data](https://livingatlas.arcgis.com/en/browse/#d=2&rgnCode=US)
+- [Census data portal](https://data.census.gov/)
+- [TIGER/Line 2024 census tracts](https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2023&layergroup=Census+Tracts). **HINT**: use this geospatial data source to join census data. 
+- [EJScreen Table data](https://dataverse.harvard.edu/file.xhtml?fileId=10775973&version=4.0)
+- [EJ Screen Table metadata](https://dataverse.harvard.edu/file.xhtml?fileId=10775981&version=4.0)
 
 ### Warnings:
 <hr>
