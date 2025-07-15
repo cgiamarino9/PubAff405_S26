@@ -79,7 +79,7 @@ For this project assignment, you will create and submit a Jupyter Notebook with 
 - [Census data portal](https://data.census.gov/)
 - [TIGER/Line 2024 census tracts](https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2023&layergroup=Census+Tracts). **HINT**: use this geospatial data source to join census data. 
 - [EJScreen Table data](https://dataverse.harvard.edu/file.xhtml?fileId=10775973&version=4.0)
-- [EJ Screen Table metadata](https://dataverse.harvard.edu/file.xhtml?fileId=10775981&version=4.0)
+- [EJScreen Table metadata](https://dataverse.harvard.edu/file.xhtml?fileId=10775981&version=4.0)
 
 ### Warnings:
 <hr>
