@@ -71,7 +71,7 @@ For this project assignment, you will create and submit a Jupyter Notebook with 
 -  you may choose a different time period to do a temporal analysis.
 - **please see** the lab notebook on tips to download from the [Census data portal](https://data.census.gov/)
 
-### Additional census datasets
+### Additional census datasets to work with for assignment
 
 - [LA Geohub](https://geohub.lacity.org/search?catalog=public&q=population)
 - [LA County GIS](https://egis-lacounty.hub.arcgis.com/search?categories=%252Fcategories%252Fpeople%2520and%2520community%2C%252Fcategories%252Fpeople%2520and%2520community%252Fcensus%2C%252Fcategories%252Fpeople%2520and%2520community%252Fdemographics%2C%252Fcategories%252Fpeople%2520and%2520community%252Felections%2C%252Fcategories%252Fpeople%2520and%2520community%252Fequity%2C%252Fcategories%252Fpeople%2520and%2520community%252Fhomeless)
