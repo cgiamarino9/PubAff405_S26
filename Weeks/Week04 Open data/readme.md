@@ -94,7 +94,7 @@ Include the following sections:
 <small>
 
 * **Project title and link to proposal**
-* **Roles**: Give your project a title and how you will contribute to the project. While this may be subject to change, it is a good idea to define this early in the project to clarify "who is doing what."
+* **Role**: Give your project a title and how you will contribute to the project. 
 * **Status update**: Report on the general mood of your project, and provide details as to what is working, and what is not.
 * **Data update**: Provide a short narrative on where you are with the data sources you will incorporate in your project. Provide links as necessary.
 * **Concerns**: There should be a lot to be concerned about at this phase of the project. List those concerns and classify them as "Major concerns" and/or "Minor concerns."
@@ -113,7 +113,7 @@ The purpose of this week's coding assignment is for you to advance your coding i
 
 ### Instructions
 - Use this week to review: redo, add, replace, review, and/or improve upon past assignments to get a better understanding of the materials and coding structures used
-- Follow up on this week's lab: create maps for areas that advance your group research
+- Follow up on this week's lab: create maps for areas that advance your  research
 - Be pragramtic: combine elements from various labs to create unique outputs that specifically advance your research inquiry
 - Be innovative: experiment with new datasets/features not covered in class (if this requires a new module/library not covered in class, consult with me first)
 
