@@ -1,14 +1,14 @@
 # Course recordings
 Recordings will be made available within a day after the class. These recordings are password protected and only available to students who are currently enrolled.
 
-[Week 1 - Welcome and Python Boot Camp](https://ucla.zoom.us/rec/share/IgvSLkmhbcnL-zKYpQTYuhZpcYhr0NZr0j1tEUWmCph2344tm9jOdne3neW_sjzl.qcwvCtjyw5YzR50T)
+[Week 1 - Welcome and Python Boot Camp](https://drive.google.com/file/d/1UYKdmA6wJSwXGf1ta1JW5v1se0qXUAPd/view?usp=drive_link)
 
 
-[Week 2 - Spatial Data Exploration](https://ucla.zoom.us/rec/share/PcpXs6KfTqUrccQurTShN9ij-N03HpLokPnWssS5CPGESqERdoWSZU0kZAkpBRO1.G7N1b6gn9CvZV_uN)
+[Week 2 - Spatial Data Exploration](https://drive.google.com/file/d/1BCLpfvyqyz-FquIYOAn5SeKLICx8H4Bi/view?usp=drive_link)
 
-[Week 3 - Census Data Exploration](https://ucla.zoom.us/rec/share/18a26oe_-FNbanpMz53oP-eZaUsoCbfW_6K-6tGggDKMaHE1Jirv18BjKrqEkU-n.wBRhEk3PE1C_1Jxk)
+[Week 3 - Census Data Exploration](https://drive.google.com/file/d/1Uj1HuOfuWFgxmT0JbgNegACxwj6u0Fas/view?usp=drive_link)
 
-[Week 4 - Open Data Exploration](https://ucla.zoom.us/rec/share/SdwuXkO7wd6ySIMFCKm8tzHTPY-uYboJj2b6_vt9ljRJg0U5G0tPf30uH59wNbjL.tbjAtkJPuofEO2V2)
+[Week 4 - Open Data Exploration](https://drive.google.com/file/d/12JCYRvrYhTzi-19ni-gvnwFuJYqF1RA0/view?usp=drive_link)
 
 [Week 5 - Open Street Map](https://ucla.zoom.us/rec/share/UEQjacMtB_Lq2oJT8nb_JHFrhNwvE_7NKdaH8OGR06xOyJZSa9pNc-v5Hb5C0Jt9.Q1KS5Mn46WTG-rHu)
 
