@@ -83,10 +83,3 @@ July 29, 2025
   - Were there any analyses or libraries used that you are curious about? 
   ## Git Configuration
 
-  To set your global Git email, run the following command in your terminal:
-
-  ```sh
-  git config --global user.email "cgiamarino@g.ucla.edu"
-  ```
-
-  This ensures your commits are associated with the correct email address.
