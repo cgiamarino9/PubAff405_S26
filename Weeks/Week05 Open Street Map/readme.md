@@ -22,11 +22,8 @@ left {text-align:left;}
 
 # Week 5
 
-<xl>
-
-Open Street Map (OSMNX)
-
-</xl>
+<span style=font-size:2.5em;font-weight:100;line-height:1>Open Street Map (OSMNX)
+</span>
 
 [Course zoom link for Summer Quarter 2025](https://ucla.zoom.us/j/95264672205?pwd=tcbEUfAy5GXNpXtf01UTrO1dnk2IQj.1)
 
@@ -40,32 +37,31 @@ July 29, 2025
 
 * <small>Note that you have to do this at the start of every lecture to get the latest material.</small>
 ##
-<xl>
+<span style=font-size:2.5em;font-weight:100;line-height:1>
 
 *Note that this course will be recorded🎥
 
-</xl>
+</span>
 
 
 # Hands on Lab
 
 ## Lab: Part 1
-<xl>
+<span style=font-size:2.5em;font-weight:100;line-height:1>
     Open Street Maps
-</xl>
+</span>
 <br>
 - Break
 
 ## Lab: Part 2
-<xl>
-    Project time!
-</xl>
+<span style=font-size:2.5em;font-weight:100;line-height:1> Project time!
+</span>
 
 
 ## [Midterms (Materials due 6pm Tuesday, August 5th the day of class!)](https://github.com/cgiamarino9/PubAff405_S25/tree/main/Midterm%20and%20Finals#midterms-20-of-your-final-grade)
-### Upload your pre-recorded presentation to your Google Drive, share the link to your GitHub along with your notebooks and slide deck.
-- Pre-recorded presentations (we will not meet)
-  -  8-10 minutes per project
+### Upload your GitHub links of your notebooks and slide deck.
+- Live presentations during class time on August 5th, 2025
+  -  8-10 minutes per project; 1-2 minutes feedback
   -  You can use any form of visual aids, including powerpoints, google slides, spreadsheets, and/or JupyterNotebooks
   -  Prepare and rehearse
   -  Most importantly, tell a story, and convey why this is an important issue that warrants our attention
@@ -85,3 +81,12 @@ July 29, 2025
   - What visuals, charts, and maps stood out, and why?
   - What could be improved?
   - Were there any analyses or libraries used that you are curious about? 
+  ## Git Configuration
+
+  To set your global Git email, run the following command in your terminal:
+
+  ```sh
+  git config --global user.email "cgiamarino@g.ucla.edu"
+  ```
+
+  This ensures your commits are associated with the correct email address.
