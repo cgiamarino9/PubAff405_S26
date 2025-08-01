@@ -81,5 +81,5 @@ July 29, 2025
   - What visuals, charts, and maps stood out, and why?
   - What could be improved?
   - Were there any analyses or libraries used that you are curious about? 
-  ## Git Configuration
+
 
