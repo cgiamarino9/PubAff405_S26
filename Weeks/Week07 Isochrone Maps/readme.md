@@ -22,11 +22,10 @@ left {text-align:left;}
 
 # Week 7
 
-<xl>
+<span style=font-size:2.5em;font-weight:100;line-height:1>
 
 Isochrone Maps
-
-</xl>
+</span>
 
 [Course zoom link for Summer Quarter 2025](https://ucla.zoom.us/j/95264672205?pwd=tcbEUfAy5GXNpXtf01UTrO1dnk2IQj.1)
 
@@ -40,36 +39,36 @@ August 12, 2025
 
 * <small>Note that you have to do this at the start of every lecture to get the latest material.</small>
 ##
-<xl>
+<span style=font-size:2.5em;font-weight:100;line-height:1>
 
 *Note that this course will be recorded🎥
 
-</xl>
+</span>
 
 
 
 # Hands on Lab
 
 ## Lab: Part 1
-<xl>
+<span style=font-size:2.5em;font-weight:100;line-height:1>
     Isochrone Maps
-</xl>
+</span>
 <br>
 - Break
 
 ## Data Challenge
-<xl>
+<span style=font-size:2.5em;font-weight:100;line-height:1>
     Individual coding time!
-</xl>
+</span>
 
 
 # Assignments (due August 18th at 11:59 pm)
 
-<xl>
+<span style=font-size:2.5em;font-weight:100;line-height:1>
 
 Project Assignment #3
 
-</xl>
+</span>
 
 [Instructions](https://github.com/cgiamarino9/PubAff405_S25/blob/main/Project%20Assignments/ProjectAssignment3.md)
 
