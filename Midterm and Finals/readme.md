@@ -46,7 +46,7 @@ This is an extension of your mid-term project. To review:
 
 Submit links and attachments to the following items on Canvas under the 'Final Project' assignment submission link.
 
-**Create a website (due the Monday before Week 11 by 5:59 pm with presentation materials and notebooks)** (using Google Sites) telling the story of your analysis in 1500+ words (not including tables, figures, captions, or references). Incorporate the visualizations and analytical results into your narrative. You are welcome to create a narrative of your own style (i.e. journalistic, infographic, etc) as long as the spatial science strongly informs and validates the urban problematic you are addressing. Otherwise, you are welcome to stick with the traditional research outline, organizing your material into five sections: 
+**Create a website (due Tuesday, September 9th, 2025 Week 11 by 11:59 pm with website and notebooks)** (using Google Sites) telling the story of your analysis in 1500+ words (not including tables, figures, captions, or references). Incorporate the visualizations and analytical results into your narrative. You are welcome to create a narrative of your own style (i.e. journalistic, infographic, etc) as long as the spatial science strongly informs and validates the urban problematic you are addressing. Otherwise, you are welcome to stick with the traditional research outline, organizing your material into five sections: 
 1. Introduction (provide an overview of your entire project)
 2. Background (explain the context, prior work, and motivation leading to your research question). 
 3. Methods (explain your data and your analytical process). 
