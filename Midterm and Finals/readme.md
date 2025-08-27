@@ -55,6 +55,9 @@ Submit links and attachments to the following items on Canvas under the 'Final P
 
 At the top of the site, include your name, the date, your project title.
 
+**Final examples**: 
+[Final examples from Winter 2025](https://github.com/cgiamarino9/25W-UP221/discussions/14). [Final examples from Winter 2024](https://github.com/cgiamarino9/24W-UP221/discussions/12). 
+
 [Google Sites tutorial](https://support.google.com/sites/answer/6372878?hl=en)
 
 [Creating GitHub Pages website for interactive map HTML](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
