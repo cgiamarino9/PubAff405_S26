@@ -23,13 +23,13 @@ left {text-align:left;}
 ## Week 10: September 2, 2025
 
 
-<xl>
+<span style=font-size:2.5em;font-weight:100;line-height:1>
 
 Final Workshop
 
 
 
-</xl>
+</span>
 
 
 
@@ -44,34 +44,33 @@ Final Workshop
 
 * <small>Note that you have to do this at the start of every lecture to get the latest material.</small>
 ##
-<xl>
+<span style=font-size:2.5em;font-weight:100;line-height:1>
 
 *Note that this course will be recorded🎥
+</span>
 
-</xl>
 
-##
-
-<xl>
-Course evaluation (take 5-10 minutes during class time)
-</xl>
-<br> * Friendly reminder  </br>
 
 ## Let's pull (optional if you'd like to look at Index creation, Metro API, or Remote Sensing imagery notebooks)
 
 First, grab the course material, and "pull" it into your JupyterHub:
 
 ## Today's lab is:
-
+<span style=font-size:2.5em;font-weight:100;line-height:1>
 Index creation + FINAL PROJECT WORKSHOP!
-</xl>
+</span>
+
+## Next week's lab is:
+<span style=font-size:2.5em;font-weight:100;line-height:1>
+FINAL FINAL PROJECT WORKSHOP!
+</span>
 
 ## Final project presentations
 
-
+<span style=font-size:2.5em;font-weight:100;line-height:1>
  Due September 9th, Tuesday at 6 pm
 
-</xl>
+</span>
 
 <br>
 
