@@ -1,10 +1,10 @@
 # Public Affairs 405: Introduction to GIS and Spatial Data Science
 
-Summer 2025, July 1st to September 9th, 2025
+Spring 2026, March 30th to June 8th, 2026
 
 Tuesdays online from 6 pm to 9 pm
 
-[Recurring Zoom link](https://ucla.zoom.us/j/95264672205?pwd=tcbEUfAy5GXNpXtf01UTrO1dnk2IQj.1)
+[Recurring Zoom link](https://cpp.zoom.us/j/87872856686)
 
 ## Course format:
 
@@ -30,7 +30,7 @@ Ben Winjum (bwinjum@ucla.edu)
 
 ## Office Hours: 
 
-* Chris, Thursdays 6 - 7 pm, Virtual via [Recurring Zoom link](https://ucla.zoom.us/j/95264672205?pwd=tcbEUfAy5GXNpXtf01UTrO1dnk2IQj.1)
+* Chris, Wednesdays, 6 - 7 pm, Virtual via [Recurring Zoom link](https://cpp.zoom.us/j/89536493197)
 * If no students show up after the first 20 minutes and I do not receive an email beforehand about when you will attend office hours, I will end the meeting early.
 * If you want to attend during a specific time of office hours, please email me beforehand. 
 * If you need to meet another day/evening of the week virtually, please send me an email. 
@@ -38,7 +38,7 @@ Ben Winjum (bwinjum@ucla.edu)
 
 ## Course Description
 
-The goal for this course is to expose you to the foundations of spatial data science. Where once there was a dearth of available digital information, we now live in a world of too much data. How can these data be transformed into human expressions and narratives, and how can these be represented spatially? Our understanding of social phenomena through spatial constructs in urban data allows us to address location-based questions on social justice, the environment, transportation, community development and design, amongst many other themes, and how these factors may affect different population groups in different ways. 
+The goal for this course is to expose you to the foundations of spatial data science through the use of [Python via Anaconda](https://www.anaconda.com/download). Where once there was a dearth of available digital information, we now live in a world of too much data. How can these data be transformed into human expressions and narratives, and how can these be represented spatially? Our understanding of social phenomena through spatial constructs in urban data allows us to address location-based questions on social justice, the environment, transportation, community development and design, amongst many other themes, and how these factors may affect different population groups in different ways. 
 
 This course prepares you for challenges in urban data beyond off-the-shelf cartographic approaches. It looks at the various components of data’s journey—acquisition, exploration, modeling, and communication through visualization—and how it enables and advances your research from a data science perspective.
 
@@ -65,26 +65,26 @@ Specifically, students will learn to:
 The following applications must be launched at the start of every class session:
 
 - Zoom: In order for instructors to be able to troubleshoot, or to demonstrate solutions to problems, it is constructive for students to share their screens with the class. In addition, in-class presentations (midterms, finals) will use a shared zoom screen to present content to the class.
-- Slack: Sharing resources, code snippets, and general commentary on class material is better situated in Slack, as unlike the zoom chat, the records are archived and made available after class. Click [Slack Invite link here](https://join.slack.com/t/pa405-summer25/shared_invite/zt-36rvbqwog-CXuqeILVMfaiOBQxfKjymg)
+- Slack: Sharing resources, code snippets, and general commentary on class material is better situated in Slack, as unlike the zoom chat, the records are archived and made available after class. Click [Slack Invite link here](https://join.slack.com/t/pa405spring2026/shared_invite/zt-3rtxnf1kk-QDuRmkh0xm3K_L7UXlydOA)
 - Canvas: I encourage students to interact via the Discussion board on the course Canvas website to troubleshoot code, 
 
 ## Inspirations
 
 I would be remiss if I do not mention various inspirations that have led to the creation of this course. First and foremost, [Yoh Kawano](https://luskin.ucla.edu/person/yoh-kawano) crafted this course and was gracious enough to mentor me as a TA for several years, lend me the material, and show me how to teach GIS and python effectively. Second, the late and great [Leo Estrada](https://luskin.ucla.edu/in-memoriam-leo-estrada-urban-planning-scholar-and-champion-of-diversity), who was Yoh's mentor and confidant over the years, who taught GIS at our department for many decades. Leo and Yoh spoke extensively about modifying this course to a more “modern” approach, and I am delighted and honored to uphold both of their legacies moving forward.
 
-Third, we have taken the liberty (with permission) to borrow ideas and materials from other courses. We specifically took inspiration from [Paul Waddell](https://ced.berkeley.edu/ced/faculty-staff/paul-waddell)’s “[Urban Informatics and Visualization](https://github.com/waddell/CP255)” course at UC Berkeley, and [Geoff Boeing](https://geoffboeing.com/about/)’s “[Data, Evidence, and Communication for the Public Good](https://github.com/gboeing/ppd534)” at the Department of Urban Planning and Spatial Analysis at USC’s Sol Price School of Public Policy.
+Third, we have taken the liberty (with permission) to borrow ideas and materials from other courses. We specifically took inspiration from [Paul Waddell](https://ced.berkeley.edu/ced/faculty-staff/paul-waddell)’s “[Urban Informatics and Visualization](https://github.com/waddell/CP255)” course at UC Berkeley, and [Geoff Boeing](https://geoffboeing.com/)’s “[Data, Evidence, and Communication for the Public Good](https://github.com/gboeing/ppd534)” at the Department of Urban Planning and Spatial Analysis at USC’s Sol Price School of Public Policy.
 
 ## Course materials
 
-The course will almost entirely be conducted on Jupyter Notebooks. We will access JupyterLab notebooks and GitHub through Anaconda [an open source Python portal](https://www.anaconda.com/download). We will set up [JupyterLab](https://docs.jupyter.org/en/latest/), a local Jupyter Notebook environment for this class. To set up your JupyterLab locally on your laptop, please follow this [tutorial](https://github.com/cgiamarino9/PubAff405_S25/blob/main/Git%20related/01%20-%20Getting%20started%20every%20week.md). Here are links to the course materials:
+The course will almost entirely be conducted on Jupyter Notebooks. We will access JupyterLab notebooks and GitHub through Anaconda [an open source Python portal](https://www.anaconda.com/download). We will set up [JupyterLab](https://docs.jupyter.org/en/latest/), a local Jupyter Notebook environment for this class. To set up your JupyterLab locally on your laptop, please follow this [tutorial](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Git%20related/01%20-%20Getting%20started%20every%20week.md). Here are links to the course materials:
 
-* [Course syllabus and website](https://github.com/cgiamarino9/PubAff405_S25/blob/main/README.md)
+* [Course syllabus and website](https://github.com/cgiamarino9/PubAff405_S26?tab=readme-ov-file#public-affairs-405-introduction-to-gis-and-spatial-data-science)
 * [Downloading Anaconda](https://www.anaconda.com/download) 
 * [Running JupyterLab through Anaconda](https://numeconcopenhagen.netlify.app/guides/jupyterlab/) 
 * [Installing GitHub on Anaconda to clone the course repository and your own repository](https://github.com/jupyterlab/jupyterlab-git)
 * [Use pip install for Git extension in Anaconda Prompt (Windows) or Terminal (Mac)](https://github.com/jupyterlab/jupyterlab-git?tab=readme-ov-file#install)
 * [Fast conda installs alternative](https://www.anaconda.com/blog/conda-is-fast-now)
-* [Course slack](https://join.slack.com/t/pa405-summer25/shared_invite/zt-36rvbqwog-CXuqeILVMfaiOBQxfKjymg)
+* [Course slack](https://join.slack.com/t/pa405spring2026/shared_invite/zt-3rtxnf1kk-QDuRmkh0xm3K_L7UXlydOA)
 
 Weekly course materials, including presentations, interactive notebooks (.ipynb), and data will be made available through a course github repository (here) that you will interact with through your laptop via Anaconda, JupyterLab, and GitHub.
 
@@ -101,10 +101,10 @@ All assignments, unless otherwise specified, must be posted to Canvas through UR
 
 | Task | Number of items | Points |
 | ------ | ----------------- | -------- |
-| Participation and individual assignments | 7-10 | 100 |
-| Group Assignments | 4 | 400 |
-| Mid-term | 1 | 200 |
-| Final report | 1 | 300 |
+| Participation and individual assignments | 7-10 | 100 (25%) |
+| Group Assignments | 4 | 400 (25%)|
+| Mid-term | 1 | 200 (20%)|
+| Final report | 1 | 300 (30%)|
 
 ## Grading criteria
 
@@ -135,7 +135,7 @@ Late assignments will be marked down one grade for each day it is late. For exam
 
 ### Preparation
 
-*   Fill out the [pre-class survey](https://forms.gle/ktU7tQf7ZwxKpbERA) 
+*   Fill out the [pre-class survey](https://forms.gle/yRqNSNWGRX67Kzmh6) 
 *   If you do not have a GitHub account, create one for the class
 	*   [GitHub](https://github.com/)
 * 	As a student, you have free access to GitHub Education and GitHub Copilot (AI coding assistance). Please take advantage of these resources by practicing in JupyterHub and VS Code (python text editor)
@@ -149,17 +149,16 @@ Late assignments will be marked down one grade for each day it is late. For exam
 
 | Week | Topic |
 |---- | ----- |
-| Week 1 | [Introduction to spatial data science](https://github.com/cgiamarino9/PubAff405_S25/tree/main/Weeks/Week01%20Intro) |
-| Week 2 | [Data in Urban Studies: The challenge in data acquisition](https://github.com/cgiamarino9/PubAff405_S25/tree/main/Weeks/Week02%20Spatial%20Data%20Exploration)<br> → [Group assignment #1: Project Proposal](https://github.com/cgiamarino9/PubAff405_S25/blob/main/Group%20Assignments/GroupAssignment1.md) |
-| Week 3 | [Understanding communities: Census data profiles](https://github.com/cgiamarino9/PubAff405_S25/tree/main/Weeks/Week03%20Census%20Data)<br> →   [Group assignment #2: Census Data Exploration](https://github.com/cgiamarino9/PubAff405_S25/blob/main/Group%20Assignments/GroupAssignment2.md) |
-| Week 4 | [Open Data and APIs](https://github.com/cgiamarino9/PubAff405_S25/tree/main/Weeks/Week04%20Open%20data) |
-| Week 5 | [Open street maps](https://github.com/cgiamarino9/PubAff405_S25/tree/main/Weeks/Week05%20Open%20Street%20Map) |
-| Week 6 | [Mid-terms](https://github.com/cgiamarino9/PubAff405_S25/tree/main/Weeks/Week06) |
-| Week 7 | [Geocoding, multiple overlays, and functions](https://github.com/cgiamarino9/PubAff405_S25/tree/main/Weeks/Week07%20Isochrone%20Maps)<br> →  [Group assignment #3: Data Visualization](https://github.com/cgiamarino9/PubAff405_S25/blob/main/Group%20Assignments/GroupAssignment3.md) |
-| Week 8 | [Spatial statistics](https://github.com/cgiamarino9/PubAff405_S25/tree/main/Weeks/Week08%20Spatial%20Autocorrelation) |
-| Week 9 | [Point pattern analysis](https://github.com/cgiamarino9/PubAff405_S25/tree/main/Weeks/Week09%20Point%20Patterns)<br> →  [Group assignment #4: Spatial Analysis](https://github.com/cgiamarino9/PubAff405_S25/blob/main/Group%20Assignments/GroupAssignment4.md) |
-| Week 10 |[Remote Sensing and Sentiment Analysis](https://github.com/cgiamarino9/PubAff405_S25/tree/main/Weeks/Week10-Metro%20scraping%20and%20remote%20sensing) |
-| Finals Week | [Finals](https://github.com/cgiamarino9/PubAff405_S25/tree/main/Midterm%20and%20Finals#midterms-and-finals) |
+| Week 1 | [Introduction to spatial data science](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Weeks/Week01%20Intro/readme.md) |
+| Week 2 | [Data in Urban Studies: The challenge in data acquisition](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Weeks/Week02%20Spatial%20Data%20Exploration/readme.md)<br> → [Project/Group assignment #1: Project Proposal](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Project%20Assignments/ProjectAssignment1.md) |
+| Week 3 | [Understanding communities: Census data profiles](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Weeks/Week03%20Census%20Data/readme.md)<br> →   [Project/group assignment #2: Census Data Exploration](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Project%20Assignments/ProjectAssignment2.md) |
+| Week 4 | [Open Data and APIs](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Weeks/Week04%20Open%20data/readme.md) |
+| Week 5 | [Open street maps](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Weeks/Week05%20Open%20Street%20Map/readme.md) |
+| Week 6 | [Mid-terms](https://github.com/cgiamarino9/PubAff405_S26/tree/main/Weeks/Week06#todays-agenda) <br> →[Midterm guidelines and examples](https://github.com/cgiamarino9/PubAff405_S26/tree/main/Midterm%20and%20Finals#midterms-20-of-your-final-grade)|
+| Week 7 | [Geocoding, multiple overlays, and functions](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Weeks/Week07%20Isochrone%20Maps/readme.md)<br> →  [Project/group assignment #3: Data Visualization](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Project%20Assignments/ProjectAssignment3.md) |
+| Week 8 | [Spatial statistics](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Weeks/Week08%20Spatial%20Autocorrelation/readme.md) |
+| Weeks 9-10 | [Index Creation and Final Project Workshop](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Weeks/Week9-Index%20creation/readme.md)<br> →  [Project/group assignment #4: Spatial Analysis](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Project%20Assignments/ProjectAssignment4.md) |
+| Finals Week | [Finals](https://github.com/cgiamarino9/PubAff405_S26/tree/main/Midterm%20and%20Finals#final-project-30-of-your-final-grade) |
 
 ## How to ask a technical question
 
@@ -198,7 +197,7 @@ Readings will be posted in the assignment sections for each week. The following 
 *   [CP255: Urban Informatics and Visualization](https://github.com/waddell/CP255)
 	*   University of California, Berkeley Department of City and Regional Planning
 	*   Professor: Paul Waddell
-*   [Automating GIS-processes 2019](https://automating-gis-processes.github.io/site/)
+*   [Automating GIS-processes 2019](https://github.com/Automating-GIS-processes)
 	*   University of Helsinki, Finland
 *   [Computing for the Social Sciences](https://cfss.uchicago.edu/notes/) (R focused)
 	*   University of Chicago
@@ -209,7 +208,7 @@ I intend to make this classroom a space that affirms all identities and perspect
 
 ## Accommodations based on disability
 
-If you are already registered with the Center for Accessible Education (CAE), please request your Letter of Accommodation on the Student Portal. If you are seeking registration with the CAE, please submit your request for accommodations via the CAE website. Please note that the CAE does not send accommodations letters to instructors--you must request that I view the letter in the online Faculty Portal. Once you have requested your accommodations via the Student Portal, please notify me immediately so I can view your letter.
+If you are already registered with the Office of Disability Services (ODS), please [make an appointment for a Letter of Accommodation on the ODS Portal](https://outlook.office365.com/book/UCLAExtensionCSR@ucla.onmicrosoft.com/). If you are seeking registration with the ODS, please submit your request for accommodations via the ODS website. Please note that the ODS does not send accommodations letters to instructors--you must request that I view the letter in the online Faculty Portal. Once you have requested your accommodations via the ODS Portal, please notify me immediately so I can view your letter.
 
-Students with disabilities requiring academic accommodations should submit their request for accommodations as soon as possible, as it may take up to two weeks to review the request. For more information, please visit the CAE website (www.cae.ucla.edu), visit the CAE at A255 Murphy Hall, or contact by phone at (310) 825-1501.
+Students with disabilities requiring academic accommodations should submit their request for accommodations as soon as possible, as it may take up to two weeks to review the request. For more information, please visit the [ODS website](https://www.uclaextension.edu/accessibility-and-disability-services), email ODS [here](ods@uclaextension.edu), or [request through their portal](https://uclaextension.caseiq.app/portal).
 
