@@ -1,6 +1,8 @@
 # Course recordings
 Recordings will be made available within a day after the class. These recordings are password protected and only available to students who are currently enrolled.
 
+[Pre-class - Installation Instructions, Anaconda, Git, JupyterLab, GitHub Workflow](https://streaming.cpp.edu/media/Pre-405+Anaconda%2C+Git%2C+JupyterLab%2C+GitHub+installation+and+user+interface+workflow/1_xvqpchl5)
+
 [Week 1 - Welcome and Python Boot Camp](https://drive.google.com/file/d/1UYKdmA6wJSwXGf1ta1JW5v1se0qXUAPd/view?usp=drive_link)
 
 
@@ -20,7 +22,7 @@ Recordings will be made available within a day after the class. These recordings
 
 [Week 9 - Point Patterns](https://ucla.zoom.us/rec/share/0xZ66qgJcBSO0n6ZZEcAJksKocvpiUu9G9ZXJqaHs_8haGIao3mM6o9cBeVs5d2R.1czMJPE2xrPXYGCr)
 
-[Week 9 - Story Map tutorial](https://ucla.zoom.us/rec/share/6n8pAMqpCw0_b_ZrIFBapksbvJVGFbna0NSzFngpHNW7_4AJqf9ezeLIWU-4hECl.UAfi2dClEHR1EeB_?startTime=1741107820000)
+[Week 10 - Story Map tutorial](https://ucla.zoom.us/rec/share/6n8pAMqpCw0_b_ZrIFBapksbvJVGFbna0NSzFngpHNW7_4AJqf9ezeLIWU-4hECl.UAfi2dClEHR1EeB_?startTime=1741107820000)
 
 [Index and workshop](https://ucla.zoom.us/rec/share/RGwqY5g9XIKw1fEQWlQTQW0eGaYYexvGhKUZzjuM6pwp4XsHaEq5zSr5XUaRGpU.zypLnRJknMLoY5Gc)
 
