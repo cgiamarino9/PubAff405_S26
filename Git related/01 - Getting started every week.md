@@ -2,6 +2,8 @@
 
 Before we start class, you will need to install Anaconda, Git, and Jupyter Lab. Anaconda is a user-friendly python environment that allows you to run jupyter notebooks and publish your work throughout the quarter to GitHub via the [git extension](https://github.com/jupyterlab/jupyterlab-git). 
 
+* Make sure you have [git installed](https://git-scm.com/install/windows). Select Windows or Mac depending on your OS. 
+
 * Install [Anaconda](https://www.anaconda.com/download). You can sign up for free.
 
 * In your search bar, type in `anaconda prompt`. 
