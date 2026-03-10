@@ -9,7 +9,7 @@ Go to GitHub and log in. Click on "repositories" and "new." Follow the screen di
 
 <kbd><img src="images/git1.png"></kbd>
 
-Once the repo is created, modify the readme.md file. Add a profile of yourself, a description of the course, project ideas, and your objectives for the class.
+Once the repo is created, modify the readme.md file. Add a profile of yourself, a description of the course, project ideas, and your objectives for the class. Use the [markdown cheat sheet to practice markdown syntax](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet).
 
 <kbd><img src="images/git2.png"></kbd>
 
