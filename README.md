@@ -46,7 +46,7 @@ We begin with an introduction to various data science tools, and review the basi
 
 In addition to the programming lab sessions, you will be given weekly or bi-weekly "thinking cap" assignments, where you will be asked to think critically about contemporary urban issues. Be prepared to address various topics from the perspective of your own lived experiences, how it informs the topic, and what kind of research can advance knowledge in a positive way.
 
-While there are no prerequisites for taking this course, people who are approaching programming for the first time will admittedly find the course to be intense and challenging.
+No prior programming experience is required. The live courses, asynchronous recordings, and myriad resources on the course site will assist you in ensuring you have a successful, fun experience learning geospatial analyses with various Python libraries. 
 
 ## Learning Objectives for Public Affairs 405
 
