@@ -1,6 +1,6 @@
 # Public Affairs 405: Introduction to GIS and Spatial Data Science
 
-Spring 2026, March 30th to June 8th, 2026
+Spring 2026, March 31st to June 9th, 2026
 
 Tuesdays online from 6 pm to 9 pm
 
@@ -101,7 +101,7 @@ All assignments, unless otherwise specified, must be posted to Canvas through UR
 
 | Task | Number of items | Points |
 | ------ | ----------------- | -------- |
-| Participation and individual assignments | 7-10 | 100 (25%) |
+| Participation and individual assignments | 5-10 | 100 (25%) |
 | Group Assignments | 4 | 400 (25%)|
 | Mid-term | 1 | 200 (20%)|
 | Final report | 1 | 300 (30%)|

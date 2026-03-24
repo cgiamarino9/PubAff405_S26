@@ -22,7 +22,7 @@ There are three deliverables for the mid-term project.
 **Midterm examples**: 
 [Midterm examples from Winter 2025](https://github.com/cgiamarino9/25W-UP221/discussions/9). [Midterm examples from Winter 2024](https://github.com/cgiamarino9/24W-UP221/discussions/8). 
 
-### Midterm Deliverables
+### Midterm Deliverables (due May 5 at 5:59 pm)
 
 Submit links and attachments to your slides and GitHub project folder with your midterm notebooks on Canvas under the 'Midterm Assignment' assignment submission link. 
    
@@ -46,7 +46,7 @@ This is an extension of your mid-term project. To review:
 
 Submit links and attachments to the following items on Canvas under the 'Final Project' assignment submission link.
 
-**Create a website (due Tuesday, September 9th, 2025 Week 11 by 11:59 pm with website and notebooks)** (using Google Sites) telling the story of your analysis in 1500+ words (not including tables, figures, captions, or references). Incorporate the visualizations and analytical results into your narrative. You are welcome to create a narrative of your own style (i.e. journalistic, infographic, etc) as long as the spatial science strongly informs and validates the urban problematic you are addressing. Otherwise, you are welcome to stick with the traditional research outline, organizing your material into five sections: 
+**Create a website (due Tuesday, June 9th, 2026 Week 11 by 11:59 pm with website and notebooks)** (using Google Sites) telling the story of your analysis in 1500+ words (not including tables, figures, captions, or references). Incorporate the visualizations and analytical results into your narrative. You are welcome to create a narrative of your own style (i.e. journalistic, infographic, etc) as long as the spatial science strongly informs and validates the urban problematic you are addressing. Otherwise, you are welcome to stick with the traditional research outline, organizing your material into five sections: 
 1. Introduction (provide an overview of your entire project)
 2. Background (explain the context, prior work, and motivation leading to your research question). 
 3. Methods (explain your data and your analytical process). 
@@ -70,7 +70,7 @@ At the top of the site, include your name, the date, your project title.
 ### Grading and suggested structure
 
 - [Story Map and presentation structure](https://arcg.is/nD5Pf)
-- [grading criteria](https://github.com/cgiamarino9/PubAff405_S25?tab=readme-ov-file#grading-criteria)
+- [grading criteria](https://github.com/cgiamarino9/PubAff405_S26?tab=readme-ov-file#grading-criteria)
 
 **Final Example for Google Site**: 
 * [Example Google Site looking at transit equity in Detroit](https://sites.google.com/g.ucla.edu/transitindetroit/home?authuser=1)

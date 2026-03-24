@@ -27,15 +27,15 @@ left {text-align:left;}
 Isochrone Maps
 </span>
 
-[Course zoom link for Summer Quarter 2025](https://ucla.zoom.us/j/95264672205?pwd=tcbEUfAy5GXNpXtf01UTrO1dnk2IQj.1)
+[Recurring Zoom link](https://cpp.zoom.us/j/87872856686)
 
-August 12, 2025
+May 12, 2026
 
 ## Let's pull
 
 * First, grab the course material, and "pull" it into your JupyterHub space:
 
-* [Git related](https://github.com/cgiamarino9/PubAff405_S25/blob/main/Git%20related/01%20-%20Getting%20started%20every%20week.md) 
+* [Git related](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Git%20related/01%20-%20Getting%20started%20every%20week.md) 
 
 * <small>Note that you have to do this at the start of every lecture to get the latest material.</small>
 ##
@@ -62,7 +62,7 @@ August 12, 2025
 </span>
 
 
-# Assignments (due August 18th at 11:59 pm)
+# Assignments (due May 18th at 11:59 pm)
 
 <span style=font-size:2.5em;font-weight:100;line-height:1>
 
@@ -70,6 +70,6 @@ Project Assignment #3
 
 </span>
 
-[Instructions](https://github.com/cgiamarino9/PubAff405_S25/blob/main/Project%20Assignments/ProjectAssignment3.md)
+[Instructions](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Project%20Assignments/ProjectAssignment3.md#project-assignment-3-a-functional-notebook)
 
-Submit your assignment [here](https://my.uclaextension.edu/courses/55582/assignments/1005841)
+Submit your assignment [here](https://my.uclaextension.edu/courses/58836/assignments/1067947)
