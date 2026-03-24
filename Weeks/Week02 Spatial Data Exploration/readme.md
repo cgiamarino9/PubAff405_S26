@@ -21,33 +21,33 @@ section {font-size:2em;font-weight:300;}
 
 # Week 2
 
-<xl>
+<b>
 
 Spatial Data Exploration
 
-</xl>
+</b>
 
-[Course zoom link for Summer Quarter 2025](https://ucla.zoom.us/j/95264672205?pwd=tcbEUfAy5GXNpXtf01UTrO1dnk2IQj.1)
+[Course zoom link for Spring Quarter 2026](https://cpp.zoom.us/j/87872856686)
 
-July 8, 2025
+April 7, 2026
 
 ##
-<xl>
+<b>
 
 *Note that this course will be recorded🎥
 
-</xl>
+</b>
 
 ##
 
-<xl>
-Resources for ICE Raids </br>(Day 32)
-</xl>
+<b>
+Resources for ICE Raids </br>(Day Infinity)
+</b>
 
 ##
 
-<xl> ICE resources beyond protesting
-<xl>
+<b> ICE resources beyond protesting
+</b>
 
 * [Comprehensive Know Your Rights Guide Against ICE Raids](https://cd14.lacity.gov/community-resources/know-your-rights#:~:text=Southern%20California%20Rapid%20Response%20Network,%3A%20(213)%20201%2D3773).  
 * [UCLA Labor Raids Resource List](https://labor.ucla.edu/immigration-raids-in-los-angeles-solidarity-statement-and-resource-list/)
@@ -62,8 +62,8 @@ Resources for ICE Raids </br>(Day 32)
 
 ##
 
-<xl> GIS resources
-<xl>
+<b> GIS resources
+</b>
 
 * [ICEwatch Tactics Map](https://www.immigrantdefenseproject.org/icewatch/)
 
@@ -73,22 +73,22 @@ Resources for ICE Raids </br>(Day 32)
 ### Project formation for midterm and final projects
 <span style="font-size=20px">
 
-* Open and review the [midterm and final project guidelines](https://github.com/cgiamarino9/PubAff405_S25/tree/main/Midterm%20and%20Finals#midterms-and-finals). </span>
+* Open and review the [midterm and final project guidelines](https://github.com/cgiamarino9/PubAff405_S26/tree/main/Midterm%20and%20Finals#midterms-20-of-your-final-grade). </span>
 
-* The form is not graded, but it will help you with your midterm proposal due before Week 3. You are welcome to submit the [project proposal assignment](https://my.uclaextension.edu/courses/55582/assignments/987734?module_item_id=3496629) when your group is ready. It is due July 14th at 11:59 pm. 
+* The assignment is not graded, but it will help you with your midterm proposal due before Week 3. You are welcome to submit the [project proposal assignment](https://my.uclaextension.edu/courses/55582/assignments/987734?module_item_id=3496629) when your group is ready. It is due April 20th at 11:59 pm. 
 </span>
 
 
 ## Hands on Lab
 First, grab the course material, and "pull" it into your JupyterHub space:
 
-* [Git related](https://github.com/cgiamarino9/PubAff405_S25/blob/main/Git%20related/01%20-%20Getting%20started%20every%20week.md) 
+* [Git related](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Git%20related/01%20-%20Getting%20started%20every%20week.md) 
 
 <small>Note that you have to do this at the start of every lecture to get the latest material.
 </small>
 
 
-# Assignments (due 11:59 pm, Monday, July 14th the day before class)
+# Assignments (due 11:59 pm, Monday, April 20th the day before class)
 
 
 ## Individual assignment: Data Exploration
@@ -97,13 +97,13 @@ First, grab the course material, and "pull" it into your JupyterHub space:
 
 In order to pull and push content to GitHub, you must first create a token, which will serve as your password. Refer to this tutorial to create your token:
 
-* [How to create a token](https://github.com/cgiamarino9/PubAff405_S25/blob/main/Git%20related/Create%20a%20token.md)
+* [How to create a token](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Git%20related/Create%20a%20token.md)
 
 ### Clone your repo
 
 This is your first code assignment submission. Before you begin, create a clone of your repo in JupyterHub.
 
-* [How to clone your repo into JupyterHub](https://github.com/cgiamarino9/PubAff405_S25/blob/main/Git%20related/Clone%20repo%20to%20hub.md)
+* [How to clone your repo into JupyterHub](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Git%20related/Clone%20repo%20to%20hub.md)
 
 ### Submission guidelines:
 
@@ -117,6 +117,9 @@ Download git just in case
 * [Git for Windows and Mac installation](https://github.com/git-guides/install-git)
 * [Tutorial for cloning, pushing, and pulling on JupyterLab 'ReviewNB'](https://blog.reviewnb.com/jupyterlab-git-extension/)
 * [Clone, push, pull from JupyterLab to GitHub](https://youtu.be/Rbg2YMWoGGo?si=LJAYsXpcHHoHC4Sa).
+* [Clone, push, pull from JupyterLab to GitHub; Chris' directions](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Git%20related/03%20-%20Uploading%20to%20your%20repo.md)
+* [Push, pull using Terminal](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Git%20related/Commit%20and%20push.md)
+* [Creating a Conda Environment if certain libraries are not working](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Git%20related/New%20Conda%20environment.md)
 **Please note**: it is recommended that you only upload your data and start your notebooks for individual assignments on JupyterLab and push them to GitHub. GitHub is where you publish your final JupyterLab notebooks. If you start working on GitHub and forget when you did upload to GitHub, you will start running into pull and push errors. 
 * [Creating personal (classic) access token on GitHub](https://medium.com/@mbohlip/how-to-generate-a-classic-personal-access-token-in-github-04985b5432c7)
 
@@ -163,27 +166,29 @@ Commit your changes to your GitHub repo by following these instructions:
 
 ### Submit your assignment 
 
-The last step is to submit your assignment to the class repo discussion section [here](https://my.uclaextension.edu/courses/55582/assignments/987733).
+The last step is to submit your assignment to the class repo discussion section [here](https://my.uclaextension.edu/courses/58836/assignments/1067884).
 
 # Project Assignment #1
-## <xl>Project Proposal</xl>
+## <b>Project Proposal</b>
 <hr>
 
-<left>
-
-The course will largely be guided by your final project, which will be conducted individually. Consider that your final project will be a representation of what you learn in this course, and how you apply it on a project level. Consider also that your final project can serve to showcase your data science and mapping skills, which may become a valuable asset for your career moving forward.
+<p style="text-align: left;"> The course will largely be guided by your final project, which will be conducted individually. Consider that your final project will be a representation of what you learn in this course, and how you apply it on a project level. Consider also that your final project can serve to showcase your data science and mapping skills, which may become a valuable asset for your career moving forward.</p>
 
 
 ### Step 1: Plan
 <hr>
 
-<left>
-Discuss and identify a research question, identify and collect data, articulate how you intend to use and analyze it, and begin to speculate how the data can answer your research inquiry. Understand that this may change later, especially as we learn more about what we can do with our methods, and also, as you find the data sources that can or cannot support your research.
+
+<p style="text-align: left;">Discuss and identify a research question, identify and collect data, articulate how you intend to use and analyze it, and begin to speculate how the data can answer your research inquiry. Understand that this may change later, especially as we learn more about what we can do with our methods, and also, as you find the data sources that can or cannot support your research.</p> 
+
+
+
 
 ### Step 2: Data
 <hr>
-<left>
-Next, identify and download at least two datasets that you believe can guide your research. Make sure that at least one of them has a spatial component. For example, if one of your datasets comes from the census, identify which survey you will use (e.g. Decennial or American Community Survey), and which variables you will select. Note that we will be covering census data in detail in Week 3. Your second dataset should come from a separate source. For example, you may want to do a crime analysis and obtain data from the LA Data Portal.
+
+<p style="text-align: left;">
+Next, identify and download at least two datasets that you believe can guide your research. Make sure that at least one of them has a spatial component.See this <a href="https://docs.google.com/document/d/1FOfuojXSEHd49w5FbxrXT0omV_hOeK8jlrzYlj7tc30/edit?usp=sharing">editable, open-source document for geospatial and tabular data sources<a>.For example, if one of your datasets comes from the census, identify which survey you will use <a href="https://services.arcgis.com/P3ePLMYs2RVChkJx/arcgis/rest/services/Esri_Updated_Demographics_Variables/FeatureServer">(e.g. Decennial or American Community Survey)</a>, and which variables you will select. Note that we will be covering census data in detail in Week 3. Your second dataset should come from a separate source. For example, you may want to do a crime analysis and obtain data from the <a href="https://data.lacity.org/">LA Data Portal</a>.</p>
 
 ### Step 3: Create a project repo. 
 
@@ -197,7 +202,8 @@ Next, identify and download at least two datasets that you believe can guide you
 
 <medium>
 
-Your project proposal should include the following:
+<p style="text-align: left;">Your project proposal should include the following:</p>
+
 *   An introduction of your research question
 *   An explanation of why it is important to you, why it matters to others, and what is at stake
 *   A description of the spatial scope (e.g. Boyle Heights or Hong Kong), and why space and/or time matters for your project
@@ -207,4 +213,4 @@ Your project proposal should include the following:
 *   A concluding paragraph of what insights you expect to gain from your research
 
 ### Step 5: Submit
-Submit your assignment [here](https://my.uclaextension.edu/courses/55582/assignments/987734)
+Submit your assignment [here](https://my.uclaextension.edu/courses/58836/assignments/1067885)

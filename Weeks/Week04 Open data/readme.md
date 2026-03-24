@@ -21,75 +21,67 @@ section {font-size:2em;font-weight:300;}
 
 # Week 4
 
-<xl>
+<b>
 
 Open Data Exploration
 
-</xl>
+</b>
 
-[Course zoom link for Summer Quarter 2025](https://ucla.zoom.us/j/95264672205?pwd=tcbEUfAy5GXNpXtf01UTrO1dnk2IQj.1)
+[Recurring Zoom link](https://cpp.zoom.us/j/87872856686)
 
-July 22, 2025
+April 21, 2026
 
 
 ##
-<xl>
+<b>
 
 *Note that this course will be recorded🎥
 
-</xl>
-
-
-
-
-
-<xl>
+</b>
 
 
 ### Meeting with instructor
 <p style="text-align: left"> 
 If you would like to meet with me for 30 minutes to discuss your proposal, data sources, and python modules/libraries that may benefit your project, please email me. Otherwise, I will provide a detailed email with feedback, additional data sources, and python library modules and funcions you will want to look into for your projects before the midterm on week 6. Send me an email if you would like to schedule an alternative time. </p>
-</xl>
+
 
 
 
 ## Hands on Lab
 * First, grab the course material, and "pull" it into your JupyterHub space:
 
-* [Git related](https://github.com/cgiamarino9/PubAff405_S25/blob/main/Git%20related/01%20-%20Getting%20started%20every%20week.md) 
+* [Git related](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Git%20related/01%20-%20Getting%20started%20every%20week.md) 
 
 * <small>Note that you have to do this at the start of every lecture to get the latest material.</small>
 
 ## Lab: Part 1
-<xl>
+<b>
 Code review with open data
-</xl>
+</b>
 <br>
 - Break
 
 ## Lab: Part 2
-<xl>
+<b>
 Mapping arrests
-</xl>
+</b>
 
 
-# Assignments (due 11:59pm  Monday, July 28th the day before class)
+# Assignments (due 11:59pm  Monday, April 28th the day before class)
 
 
 ## Mini Project Assignment
 
-<left>
+<p style="text-align: left;">
 
 For this week's project assignment, submit a status report as a markdown file in your project repo. This will simply be graded as a "done" or "not done" and count towards your participation grade.
-</left>
+</p>
 
 ### Instructions
 
-<left>
-
+<p style="text-align: left;">
 Include the following sections:
-
-</left>
+</p>
 
 <small>
 
@@ -103,13 +95,13 @@ Include the following sections:
 
 ### Submit
 
-Submit your updated proposal [here](https://my.uclaextension.edu/courses/55582/assignments/987737?module_item_id=3496641).
+Resubmit your updated proposal [here](https://my.uclaextension.edu/courses/58836/assignments/1067885).
 
 ## Individual Coding Assignment
 
-<left>
+<p style="text-align: left;">
 The purpose of this week's coding assignment is for you to advance your coding in a direction that makes sense to you, and to the advancement of your group research project. 
-</left>
+</p>
 
 ### Instructions
 - Use this week to review: redo, add, replace, review, and/or improve upon past assignments to get a better understanding of the materials and coding structures used
@@ -119,9 +111,9 @@ The purpose of this week's coding assignment is for you to advance your coding i
 
 ### Instructions (cont'd)
 
-<left>
+<p style="text-align: left;">
 This assignment can be as long or as short as you desire. It is meant to review and advance your understanding of course material. To submit:
-</left>
+</p>
 
 - create a new Python 3 notebook for your assignment
 - provide a title and explanatory description of what the purpose of the notebook is

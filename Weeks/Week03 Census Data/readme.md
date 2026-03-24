@@ -21,48 +21,48 @@ section {font-size:2em;font-weight:300;}
 
 # Week 3
 
-<xl>
+<b>
 
 Census Data Exploration
 
-</xl>
+</b>
 
-[Course zoom link for Summer Quarter 2025](https://ucla.zoom.us/j/95264672205?pwd=tcbEUfAy5GXNpXtf01UTrO1dnk2IQj.1)
+[Recurring Zoom link](https://cpp.zoom.us/j/87872856686)
 
-July 15, 2025
+April 14, 2026
 
 ##
-<xl>
+<b>
 
 *Note that this course will be recorded🎥
 
-</xl>
+</b>
 
 
 ## Hands on Lab
 * First, grab the course material, and "pull" it into your JupyterHub space:
 
-* [Git related](https://github.com/cgiamarino9/PubAff405_S25/blob/main/Git%20related/01%20-%20Getting%20started%20every%20week.md) 
+* [Git related](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Git%20related/01%20-%20Getting%20started%20every%20week.md) 
 
 * <small>Note that you have to do this at the start of every lecture to get the latest material.</small>
 
 
 
-# Assignments (due 11:59 pm Monday, July 21st the day before class)
+# Assignments (due 11:59 pm Monday, April 20th the day before class)
 
 
 ## Project Assignment #2
 
-<xl>
+<b>
 
 Census Data Exploration
 
-</xl>
+</b>
 
 ### Step 1: Plan
 <hr>
-<left>
-For this project assignment, you will create and submit a Jupyter Notebook with 2-3 different census variables analyzed and visualized. The notebook should choose census indicators that are relevant to your research project. For example:
+<p style="text-align: left;">
+For this project assignment, you will create and submit a Jupyter Notebook with 2-3 different census variables analyzed and visualized. The notebook should choose census indicators that are relevant to your research project. For example:</p>
 <hr>
 <medium>
 
@@ -70,6 +70,7 @@ For this project assignment, you will create and submit a Jupyter Notebook with 
 - you may choose to do a transportation profile for Los Angeles, or you may choose an education profile also for Los Angeles
 -  you may choose a different time period to do a temporal analysis.
 - **please see** the lab notebook on tips to download from the [Census data portal](https://data.census.gov/)
+- **please see** [importing an Esri geoservice](https://medium.com/@jesse.b.nestler/how-to-extract-every-feature-from-an-esri-map-service-using-python-b6e34743574a). There is a link to census tracts [here](https://github.com/cgiamarino9/PubAff405_S26/tree/main/Weeks/Week03%20Census%20Data/data).
 
 ### Additional census datasets to work with for assignment
 
@@ -85,11 +86,7 @@ For this project assignment, you will create and submit a Jupyter Notebook with 
 
 ### Warnings:
 <hr>
-<left>
-
-**Do not copy and paste the class lab. Make sure to start a brand new notebook.**
-
-**If you are working on a project outside of the United States, consult with me to find an alternative dataset to explore.**
+<p style="text-align: left;"><strong>Do not copy and paste the class lab. Make sure to start a brand new notebook.If you are working on a project outside of the United States, consult with me to find an alternative dataset to explore.</strong></p>
 
 ### Step 2: Program
 <hr>
@@ -106,4 +103,4 @@ For this project assignment, you will create and submit a Jupyter Notebook with 
 
 ### Step 3: Submit
 
-- Submit your assignment by posting a link to your notebook [here](https://my.uclaextension.edu/courses/55582/assignments/987736?module_item_id=3496640).
+- Submit your assignment by posting a link to your notebook [here](https://my.uclaextension.edu/courses/58836/assignments/1067943).

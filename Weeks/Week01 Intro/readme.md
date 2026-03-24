@@ -29,7 +29,7 @@ Public Affairs 405: Introduction to GIS and Spatial Data Science
 
 [Recurring Zoom link](https://cpp.zoom.us/j/87872856686)
 
-March 30, 2026
+March 31, 2026
 
 ##
 <b> 
@@ -124,7 +124,8 @@ Search for two or more potential data sources that you may use for your research
 - shapefile
 - API source
 
-### Submit your dataset assigment [here](https://my.uclaextension.edu/courses/58836/assignments/1067785), and make sure to provide the following information for each of your two datasets:
+### Submit datasets
+<b> <p style="text-align: center;">Submit your dataset assigment [here](https://my.uclaextension.edu/courses/58836/assignments/1067785), and make sure to provide the following information for each of your two datasets:</p></b>
 
 1. Name of the data
 1. Description of the data and how you may use it for your project
@@ -132,14 +133,12 @@ Search for two or more potential data sources that you may use for your research
 1. A URL link to the data on your repo
 
 ## #3. Thinking cap 🤔
-This week's "thinking cap" assignment is for you to find an article, blog, journal, chapter, or book that includes a spatial component (a map, chart, graphic) in regards to a topic related to urban justice. Make sure it is something that you would like to share with the class. 
+<p style="text-align: left;">This week's "thinking cap" assignment is for you to find an article, blog, journal, chapter, or book that includes a spatial component (a map, chart, graphic) in regards to a topic related to urban justice. Make sure it is something that you would like to share with the class.</p>
 
 ###
-Then, write post with two parts:
+<p style="text-align: left;">Then, write post with two parts:</p>
 
 - A paragraph that summarizes the article and reflects critically and creatively about the material in your own words. Why did this article speak to you in regards to your approach to data and research? How does it inform your learning goals for this course? 
 - How do you think the graphical outputs (maps/charts) were created for the article? Where did the data come from, and how do you think the outputs were created? Does it *work*? Why or why not?
 
-The instructors will select a few of the readings for discussion in week 2.
-
-Submit your assignment [here](https://my.uclaextension.edu/courses/58836/assignments/1067786).
+<p style="text-align: left;">The instructors will select a few of the readings for discussion in week 2. Submit your assignment <a href="https://my.uclaextension.edu/courses/58836/assignments/1067786">here</a>.</p>

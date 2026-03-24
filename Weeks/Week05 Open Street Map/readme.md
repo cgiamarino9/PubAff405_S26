@@ -25,15 +25,15 @@ left {text-align:left;}
 <span style=font-size:2.5em;font-weight:100;line-height:1>Open Street Map (OSMNX)
 </span>
 
-[Course zoom link for Summer Quarter 2025](https://ucla.zoom.us/j/95264672205?pwd=tcbEUfAy5GXNpXtf01UTrO1dnk2IQj.1)
+[Recurring Zoom link](https://cpp.zoom.us/j/87872856686)
 
-July 29, 2025
+April 28, 2025
 
 ## Let's pull
 
 * First, grab the course material, and "pull" it into your JupyterHub space:
 
-* [Git related](https://github.com/cgiamarino9/PubAff405_S25/blob/main/Git%20related/01%20-%20Getting%20started%20every%20week.md) 
+* [Git related](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Git%20related/01%20-%20Getting%20started%20every%20week.md) 
 
 * <small>Note that you have to do this at the start of every lecture to get the latest material.</small>
 ##
@@ -58,9 +58,9 @@ July 29, 2025
 </span>
 
 
-## [Midterms (Materials due 6pm Tuesday, August 5th the day of class!)](https://github.com/cgiamarino9/PubAff405_S25/tree/main/Midterm%20and%20Finals#midterms-20-of-your-final-grade)
+## Midterms (Materials due 6pm Tuesday, May 5th the day of class!). [Please follow midterm directions](https://github.com/cgiamarino9/PubAff405_S26/tree/main/Midterm%20and%20Finals#midterms-20-of-your-final-grade)
 ### Upload your GitHub links of your notebooks and slide deck.
-- Live presentations during class time on August 5th, 2025
+- Live presentations during class time on May 5th, 2026
   -  8-10 minutes per project; 1-2 minutes feedback
   -  You can use any form of visual aids, including powerpoints, google slides, spreadsheets, and/or JupyterNotebooks
   -  Prepare and rehearse
@@ -73,7 +73,7 @@ July 29, 2025
   - Talk to the audience, not your computer or the screen
   - Show your passion!
 
-**Submit your midterm materials [here](https://my.uclaextension.edu/courses/55582/modules/items/3496643)**
+<p style="text-align: left;"><a href="https://my.uclaextension.edu/courses/58836/assignments/1067946">Submit your midterm materials by clicking this link</a>**</p>
 
 ## Peer feedback
 - Provide constructive feedback to one project's recording, notebooks, and slides
