@@ -27,7 +27,7 @@ left {text-align:left;}
 
 [Recurring Zoom link](https://cpp.zoom.us/j/87872856686)
 
-April 28, 2025
+April 28, 2026
 
 ## Let's pull
 
