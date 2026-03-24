@@ -111,7 +111,7 @@ There are three deliverables this week. Each are due on Monday by midnight. Week
 
 *   Create a GitHub account, and create a project repo named “pa405-yourfirstname” - [Instructions](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Git%20related/02%20-%20Create%20your%20class%20repo.md)
 *   Create a Readme.md file in your GitHub class repo, and introduce your Data Science project space (hint: use this [markdown guide](https://guides.github.com/features/mastering-markdown/)
-*  Submit your assignment [here](https://my.uclaextension.edu/courses/55582/assignments/987730?module_item_id=3496624)
+*  Submit your assignment [here](https://my.uclaextension.edu/courses/58836/assignments/1067784)
 
 ## #2. Submit two or more datasets
 Search for two or more potential data sources that you may use for your research. If you are you using a web resource, make sure that they are "downloadable." Upload your datasets to your repo. First, create a folder titled "data," and upload your datasets in there.
@@ -124,7 +124,7 @@ Search for two or more potential data sources that you may use for your research
 - shapefile
 - API source
 
-### Submit your dataset assigment [here](https://my.uclaextension.edu/courses/55582/assignments/987731?module_item_id=3496625), and make sure to provide the following information for each of your two datasets:
+### Submit your dataset assigment [here](https://my.uclaextension.edu/courses/58836/assignments/1067785), and make sure to provide the following information for each of your two datasets:
 
 1. Name of the data
 1. Description of the data and how you may use it for your project
@@ -142,4 +142,4 @@ Then, write post with two parts:
 
 The instructors will select a few of the readings for discussion in week 2.
 
-Submit your assignment [here](https://my.uclaextension.edu/courses/55582/assignments/987732?module_item_id=3496626).
+Submit your assignment [here](https://my.uclaextension.edu/courses/58836/assignments/1067786).
