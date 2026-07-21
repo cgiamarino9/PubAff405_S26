@@ -27,9 +27,9 @@ Public Affairs 405: Introduction to GIS and Spatial Data Science
 
 </b>
 
-[Recurring Zoom link](https://cpp.zoom.us/j/87872856686)
+[Recurring Zoom link](https://cpp.zoom.us/j/87579182940)
 
-March 31, 2026
+September 29, 2026
 
 ##
 <b> 
@@ -61,9 +61,9 @@ March 31, 2026
 
 * Mark your [attendance ✅](https://docs.google.com/spreadsheets/d/1e1OssJNa1UxN1PfZzweBgs4Ks9u2L5nCPZHOjDPjLFw/edit?usp=sharing) 
 * Fill out the [pre-class survey](https://docs.google.com/forms/d/e/1FAIpQLSfQwfV1kVmGK5lEwdhBhH1PS-sef7KQwj-rzRQh1xhI2PRO9w/viewform) poll if you haven't already ☑️
-* Go over the [Syllabus](https://github.com/cgiamarino9/PubAff405_S26) 📜
-* Sign up for the course [Slack channel](https://join.slack.com/t/pa405spring2026/shared_invite/zt-3rtxnf1kk-QDuRmkh0xm3K_L7UXlydOA). We will collaborate, code, and troubleshoot there. 
-* Check out this [open source and big data document](https://docs.google.com/document/d/1pI-rVx19inCVbT9175Qw3C6WFirRsoFoiigMOTSlmXc/edit?usp=sharing) for links to geospatial data. Add sources; do not delete sources. 
+* Go over the [Syllabus](https://github.com/cgiamarino9/PubAff405_F26) 📜
+* Sign up for the course [Slack channel](https://join.slack.com/t/pa405fall2026/shared_invite/zt-3rtxnf1kk-QDuRmkh0xm3K_L7UXlydOA). We will collaborate, code, and troubleshoot there. 
+* Check out this [open source and big data document](https://docs.google.com/document/d/1FOfuojXSEHd49w5FbxrXT0omV_hOeK8jlrzYlj7tc30/edit?usp=sharing) for links to geospatial data. Add sources; do not delete sources. 
 
 
 
@@ -93,7 +93,8 @@ Collaboration
 ## Set your environment
 First, grab the course material, and "pull" it into your JupyterHub space:
 
-* [Git related](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Git%20related/01%20-%20Getting%20started%20every%20week.md) 
+* [Git related](https://github.com/cgiamarino9/PubAff405_F26/blob/main/Git%20related/01%20-%20Getting%20started%20every%20week.md) 
+* If you are experiencing issues, we will get this sorted. Please refer to this [recording](https://streaming.cpp.edu/media/Pre-405+Anaconda%2C+Git%2C+JupyterLab%2C+GitHub+installation+and+user+interface+workflow/1_xvqpchl5) where I show you how to download all python libraries, work with the course materials, and set up your GitHub repository. 
 
 ##
 
@@ -109,9 +110,9 @@ There are three deliverables this week. Each are due on Monday by midnight. Week
 
 ## #1. Create a GitHub account, and start a new repo
 
-*   Create a GitHub account, and create a project repo named “pa405-yourfirstname” - [Instructions](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Git%20related/02%20-%20Create%20your%20class%20repo.md)
+*   Create a GitHub account, and create a project repo named “pa405-yourfirstname” - [Instructions](https://github.com/cgiamarino9/PubAff405_F26/blob/main/Git%20related/02%20-%20Create%20your%20class%20repo.md)
 *   Create a Readme.md file in your GitHub class repo, and introduce your Data Science project space (hint: use this [markdown guide](https://guides.github.com/features/mastering-markdown/)
-*  Submit your assignment [here](https://my.uclaextension.edu/courses/58836/assignments/1067784)
+*  Submit your assignment [here](https://my.uclaextension.edu/courses/61095/assignments/1082443)
 
 ## #2. Submit two or more datasets
 Search for two or more potential data sources that you may use for your research. If you are you using a web resource, make sure that they are "downloadable." Upload your datasets to your repo. First, create a folder titled "data," and upload your datasets in there.
@@ -125,7 +126,7 @@ Search for two or more potential data sources that you may use for your research
 - API source
 
 ### Submit datasets
-<b> <p style="text-align: center;">Submit your dataset assigment [here](https://my.uclaextension.edu/courses/58836/assignments/1067785), and make sure to provide the following information for each of your two datasets:</p></b>
+<b> <p style="text-align: center;">Submit your dataset assigment [here](https://my.uclaextension.edu/courses/61095/assignments/1082451), and make sure to provide the following information for each of your two datasets:</p></b>
 
 1. Name of the data
 1. Description of the data and how you may use it for your project
@@ -141,4 +142,4 @@ Search for two or more potential data sources that you may use for your research
 - A paragraph that summarizes the article and reflects critically and creatively about the material in your own words. Why did this article speak to you in regards to your approach to data and research? How does it inform your learning goals for this course? 
 - How do you think the graphical outputs (maps/charts) were created for the article? Where did the data come from, and how do you think the outputs were created? Does it *work*? Why or why not?
 
-<p style="text-align: left;">The instructors will select a few of the readings for discussion in week 2. Submit your assignment <a href="https://my.uclaextension.edu/courses/58836/assignments/1067786">here</a>.</p>
+<p style="text-align: left;">The instructors will select a few of the readings for discussion in week 2. Submit your assignment <a href="https://my.uclaextension.edu/courses/61095/assignments/1082452">here</a>.</p>
