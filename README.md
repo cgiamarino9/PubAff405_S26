@@ -10,7 +10,7 @@ Tuesdays online from 6 pm to 9 pm
 
 **Live-Online/Synchronous**
 
-This course will meet in real time via Zoom. Classes meet at regularly scheduled times and you will have the opportunity to interact with your instructor and your classmates. Just like a regular on-campus class, you are expected to attend and participate in discussions. Recordings will be provided in the [Recordings folder]() if you fall behind.
+This course will meet in real time via Zoom. Classes meet at regularly scheduled times and you will have the opportunity to interact with your instructor and your classmates. Just like a regular on-campus class, you are expected to attend and participate in discussions. Recordings will be provided in the [Recordings folder](https://github.com/cgiamarino9/PubAff405_F26/tree/main/Recordings) if you fall behind. Don't be discouraged if you fall behind. Feel free to unmute, ask questions, or catch up on your own time. 
 
 **
 
