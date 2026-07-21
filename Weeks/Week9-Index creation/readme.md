@@ -20,7 +20,7 @@ section {font-size:2em;font-weight:300;}
 left {text-align:left;}
 </style>
 
-## Weeks 9-10: May 26 & June 2, 2026
+## Weeks 9-10: November 24 & December 1, 2026
 
 
 <span style=font-size:2.5em;font-weight:100;line-height:1>
@@ -34,15 +34,15 @@ Final Lab + Workshop
 
 
 
-[Recurring Zoom link](https://cpp.zoom.us/j/87872856686)
+[Recurring Zoom link](https://cpp.zoom.us/j/87579182940)
 
-May 26 & June 2, 2026
+November 24 & December 1, 2026
 
 ## Let's pull
 
 * First, grab the course material, and "pull" it into your JupyterHub space:
 
-* [Git related](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Git%20related/01%20-%20Getting%20started%20every%20week.md) 
+* [Git related](https://github.com/cgiamarino9/PubAff405_F26/blob/main/Git%20related/01%20-%20Getting%20started%20every%20week.md) 
 
 * <small>Note that you have to do this at the start of every lecture to get the latest material.</small>
 ##
@@ -55,7 +55,7 @@ May 26 & June 2, 2026
 
 ## Let's pull (optional if you'd like to look at Index creation, Metro API, or Remote Sensing imagery notebooks)
 
-First, [grab the course material, and "pull" it into your JupyterLab](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Git%20related/01%20-%20Getting%20started%20every%20week.md):
+First, [grab the course material, and "pull" it into your JupyterLab](https://github.com/cgiamarino9/PubAff405_F26/blob/main/Git%20related/01%20-%20Getting%20started%20every%20week.md):
 
 ## Today's lab is:
 <span style=font-size:2.5em;font-weight:100;line-height:1>
@@ -70,12 +70,12 @@ FINAL FINAL PROJECT WORKSHOP!
 ## Final project presentations
 
 <span style=font-size:2.5em;font-weight:100;line-height:1>
- Draft of Google Site due on June 1 at 11:59 pm
+ Draft of Google Site due on December 1 at 11:59 pm
 
 </span>
 
 <br>
 
-- [Submission guidelines](https://github.com/cgiamarino9/PubAff405_S26/tree/main/Midterm%20and%20Finals#final-project-30-of-your-final-grade)
-- [Submit rough draft of Google Site here](https://my.uclaextension.edu/courses/58836/assignments/1067951). This is ungraded. 
-- [Submit final draft of Site and slides here](https://my.uclaextension.edu/courses/58836/assignments/1067952)
+- [Submission guidelines](https://github.com/cgiamarino9/PubAff405_F26/tree/main/Midterm%20and%20Finals#final-project-30-of-your-final-grade)
+- [Submit rough draft of Google Site here](https://my.uclaextension.edu/courses/61095/assignments/1082445). This is ungraded. 
+- [Submit final draft of Site and slides here](https://my.uclaextension.edu/courses/61095/assignments/1082446)

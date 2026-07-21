@@ -25,7 +25,7 @@ left {text-align:left;}
 <span style=font-size:2.5em;font-weight:100;line-height:1>Open Street Map (OSMNX)
 </span>
 
-[Recurring Zoom link](https://cpp.zoom.us/j/87872856686)
+[Recurring Zoom link](https://cpp.zoom.us/j/87579182940)
 
 April 28, 2026
 
@@ -33,7 +33,7 @@ April 28, 2026
 
 * First, grab the course material, and "pull" it into your JupyterHub space:
 
-* [Git related](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Git%20related/01%20-%20Getting%20started%20every%20week.md) 
+* [Git related](https://github.com/cgiamarino9/PubAff405_F26/blob/main/Git%20related/01%20-%20Getting%20started%20every%20week.md) 
 
 * <small>Note that you have to do this at the start of every lecture to get the latest material.</small>
 ##
@@ -58,9 +58,9 @@ April 28, 2026
 </span>
 
 
-## Midterms (Materials due 6pm Tuesday, May 5th the day of class!). [Please follow midterm directions](https://github.com/cgiamarino9/PubAff405_S26/tree/main/Midterm%20and%20Finals#midterms-20-of-your-final-grade)
+## Midterms (Materials due 6pm Tuesday, November 3, 2026, the day of class!). [Please follow midterm directions](https://github.com/cgiamarino9/PubAff405_F26/tree/main/Midterm%20and%20Finals#midterms-20-of-your-final-grade)
 ### Upload your GitHub links of your notebooks and slide deck.
-- Live presentations during class time on May 5th, 2026
+- Live presentations during class time at 6pm on Tuesday, November 3, 2026
   -  8-10 minutes per project; 1-2 minutes feedback
   -  You can use any form of visual aids, including powerpoints, google slides, spreadsheets, and/or JupyterNotebooks
   -  Prepare and rehearse
@@ -73,7 +73,7 @@ April 28, 2026
   - Talk to the audience, not your computer or the screen
   - Show your passion!
 
-<p style="text-align: left;"><a href="https://my.uclaextension.edu/courses/58836/assignments/1067946">Submit your midterm materials by clicking this link</a>**</p>
+<p style="text-align: left;"><a href="https://my.uclaextension.edu/courses/61095/assignments/1082447">Submit your midterm materials by clicking this link</a>**</p>
 
 ## Peer feedback
 - Provide constructive feedback to one project's recording, notebooks, and slides

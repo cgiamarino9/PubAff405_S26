@@ -28,15 +28,15 @@ Spatial Autocorrelation
 
 </span>
 
-[Recurring Zoom link](https://cpp.zoom.us/j/87872856686)
+[Recurring Zoom link](https://cpp.zoom.us/j/87579182940)
 
-May 19, 2026
+November 17, 2026
 
 ## Let's pull
 
 * First, grab the course material, and "pull" it into your JupyterHub space:
 
-* [Git related](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Git%20related/01%20-%20Getting%20started%20every%20week.md) 
+* [Git related](https://github.com/cgiamarino9/PubAff405_F26/blob/main/Git%20related/01%20-%20Getting%20started%20every%20week.md) 
 
 * <small>Note that you have to do this at the start of every lecture to get the latest material.</small>
 ##
@@ -70,6 +70,6 @@ Lab:
 - Meet with your instructor to discuss your project
 - Run through [Google Site tutorial](https://support.google.com/sites/answer/6372878?hl=en)
 - Check out [GitHub Pages free website creation tutorial](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
-- [Final project assignment](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Project%20Assignments/ProjectAssignment4.md#project-assignment-4-spatial-analysis). Will count toward one missing assignment or attendance. 
+- [Final project assignment](https://github.com/cgiamarino9/PubAff405_F26/blob/main/Project%20Assignments/ProjectAssignment4.md#project-assignment-4-spatial-analysis). Will count toward one missing assignment or attendance. 
 
-### Submit final project assignment by May 25 at 11:59 pm [here](https://my.uclaextension.edu/courses/58836/assignments/1067950)
+### Submit final project assignment by May 25 at 11:59 pm [here](https://my.uclaextension.edu/courses/61095/assignments/1082450)

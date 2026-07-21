@@ -27,9 +27,9 @@ Census Data Exploration
 
 </b>
 
-[Recurring Zoom link](https://cpp.zoom.us/j/87872856686)
+[Recurring Zoom link](https://cpp.zoom.us/j/87579182940)
 
-April 14, 2026
+October 13, 2026
 
 ##
 <b>
@@ -42,13 +42,13 @@ April 14, 2026
 ## Hands on Lab
 * First, grab the course material, and "pull" it into your JupyterHub space:
 
-* [Git related](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Git%20related/01%20-%20Getting%20started%20every%20week.md) 
+* [Git related](https://github.com/cgiamarino9/PubAff405_F26/blob/main/Git%20related/01%20-%20Getting%20started%20every%20week.md) 
 
 * <small>Note that you have to do this at the start of every lecture to get the latest material.</small>
 
 
 
-# Assignments (due 11:59 pm Monday, April 20th the day before class)
+# Assignments (due 11:59 pm Monday, October 19th the day before class)
 
 
 ## Project Assignment #2
@@ -70,15 +70,15 @@ For this project assignment, you will create and submit a Jupyter Notebook with 
 - you may choose to do a transportation profile for Los Angeles, or you may choose an education profile also for Los Angeles
 -  you may choose a different time period to do a temporal analysis.
 - **please see** the lab notebook on tips to download from the [Census data portal](https://data.census.gov/)
-- **please see** [importing an Esri geoservice](https://medium.com/@jesse.b.nestler/how-to-extract-every-feature-from-an-esri-map-service-using-python-b6e34743574a). There is a link to census tracts [here](https://github.com/cgiamarino9/PubAff405_S26/tree/main/Weeks/Week03%20Census%20Data/data).
+- **please see** [importing an Esri geoservice](https://medium.com/@jesse.b.nestler/how-to-extract-every-feature-from-an-esri-map-service-using-python-b6e34743574a). There is a link to census tracts [here](https://github.com/cgiamarino9/PubAff405_F26/tree/main/Weeks/Week03%20Census%20Data/data).
 
 ### Additional census datasets to work with for assignment
 
 - [LA Geohub](https://geohub.lacity.org/search?catalog=public&q=population)
 - [LA County GIS](https://egis-lacounty.hub.arcgis.com/search?categories=%252Fcategories%252Fpeople%2520and%2520community%2C%252Fcategories%252Fpeople%2520and%2520community%252Fcensus%2C%252Fcategories%252Fpeople%2520and%2520community%252Fdemographics%2C%252Fcategories%252Fpeople%2520and%2520community%252Felections%2C%252Fcategories%252Fpeople%2520and%2520community%252Fequity%2C%252Fcategories%252Fpeople%2520and%2520community%252Fhomeless)
 - [Living Atlas GIS data](https://livingatlas.arcgis.com/en/browse/#d=2&rgnCode=US)
-- [I have uploaded Census tracts here on the Course website for your use from 2024 Living Atlas link above](https://github.com/cgiamarino9/PubAff405_S25/blob/main/Weeks/Week03%20Census%20Data/data/LACountyTracts24.zip). **HINT**: Refer to fields available from this [Demographics data link](https://www.arcgis.com/home/item.html?id=b0b3b31e531e406185f2de4fff596060).
-- [LA County Boundary](https://github.com/cgiamarino9/PubAff405_S25/blob/main/Weeks/Week03%20Census%20Data/data/LACountyBoundary.zip)
+- [I have uploaded Census tracts here on the Course website for your use from 2024 Living Atlas link above](https://github.com/cgiamarino9/PubAff405_F26/blob/main/Weeks/Week03%20Census%20Data/data/LACountyTracts24.zip). **HINT**: Refer to fields available from this [Demographics data link](https://www.arcgis.com/home/item.html?id=b0b3b31e531e406185f2de4fff596060).
+- [LA County Boundary](https://github.com/cgiamarino9/PubAff405_F26/blob/main/Weeks/Week03%20Census%20Data/data/LACountyBoundary.zip)
 - [Census data portal](https://data.census.gov/)
 - [TIGER/Line 2024 census tracts](https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2023&layergroup=Census+Tracts). **HINT**: use this geospatial data source to join census data. 
 - [EJScreen Table data](https://dataverse.harvard.edu/file.xhtml?fileId=10775973&version=4.0)
@@ -103,4 +103,4 @@ For this project assignment, you will create and submit a Jupyter Notebook with 
 
 ### Step 3: Submit
 
-- Submit your assignment by posting a link to your notebook [here](https://my.uclaextension.edu/courses/58836/assignments/1067943).
+- Submit your assignment by posting a link to your notebook [here](https://my.uclaextension.edu/courses/61095/assignments/1082442).

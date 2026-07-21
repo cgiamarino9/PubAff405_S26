@@ -22,13 +22,13 @@ There are three deliverables for the mid-term project.
 **Midterm examples**: 
 [Midterm examples from Winter 2025](https://github.com/cgiamarino9/25W-UP221/discussions/9). [Midterm examples from Winter 2024](https://github.com/cgiamarino9/24W-UP221/discussions/8). 
 
-### Midterm Deliverables (due May 5 at 5:59 pm)
+### Midterm Deliverables (due Nov 3 at 5:59 pm)
 
 Submit links and attachments to your slides and GitHub project folder with your midterm notebooks on Canvas under the 'Midterm Assignment' assignment submission link. 
    
 
 ## Final Project (30% of your final grade)
-### Overview
+### Overview (due December 9 at 5:59 pm)
 The final project is a cumulative and applied project assignment that requires you to collectively use the skills you developed over the entire quarter. You will develop an interesting research question then answer it using the data analysis, statistics, and visualization methods you have learned in this course.
 
 ### Instructions
@@ -70,7 +70,7 @@ At the top of the site, include your name, the date, your project title.
 ### Grading and suggested structure
 
 - [Story Map and presentation structure](https://arcg.is/nD5Pf)
-- [grading criteria](https://github.com/cgiamarino9/PubAff405_S26?tab=readme-ov-file#grading-criteria)
+- [grading criteria](https://github.com/cgiamarino9/PubAff405_F26?tab=readme-ov-file#grading-criteria)
 
 **Final Example for Google Site**: 
 * [Example Google Site looking at transit equity in Detroit](https://sites.google.com/g.ucla.edu/transitindetroit/home?authuser=1)

@@ -106,7 +106,7 @@ Today's lab will cover the following topics:
 
 # Individual Assignments
 
-There are three deliverables this week. Each are due on Monday by midnight. Week 1's assignments are due July 7th, 2025 by 11:59 PM. Each assignment must be posted as GitHub URLs in the Weekly Canvas Module. For example, Week 1's assignments will be under the Week 1 module.
+There are three deliverables this week. Each are due on Monday by midnight. Week 1's assignments are due October 5, 2026 by 11:59 PM. Each assignment must be posted as GitHub URLs in the Weekly Canvas Module. For example, Week 1's assignments will be under the Week 1 module.
 
 ## #1. Create a GitHub account, and start a new repo
 

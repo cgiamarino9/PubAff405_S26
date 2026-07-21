@@ -1,5 +1,5 @@
 ---
-marp: true
+marp: false
 theme: uncover
 headingDivider: 3
 footer: PA405 | Intro to GIS and Spatial Data Science ![width:30px](../images/globe.png)
@@ -27,9 +27,9 @@ Spatial Data Exploration
 
 </b>
 
-[Course zoom link for Spring Quarter 2026](https://cpp.zoom.us/j/87872856686)
+[Course zoom link for Fall Quarter 2026](https://cpp.zoom.us/j/87579182940)
 
-April 7, 2026
+October 6, 2026
 
 ##
 <b>
@@ -73,22 +73,22 @@ Resources for ICE Raids </br>(Day Infinity)
 ### Project formation for midterm and final projects
 <span style="font-size=20px">
 
-* Open and review the [midterm and final project guidelines](https://github.com/cgiamarino9/PubAff405_S26/tree/main/Midterm%20and%20Finals#midterms-20-of-your-final-grade). </span>
+* Open and review the [midterm and final project guidelines](https://github.com/cgiamarino9/PubAff405_F26/tree/main/Midterm%20and%20Finals#midterms-20-of-your-final-grade). </span>
 
-* The assignment is not graded, but it will help you with your midterm proposal due before Week 3. You are welcome to submit the [project proposal assignment](https://my.uclaextension.edu/courses/55582/assignments/987734?module_item_id=3496629) when your group is ready. It is due April 20th at 11:59 pm. 
+* The assignment is not graded, but it will help you with your midterm proposal due before Week 3. You are welcome to submit the [project proposal assignment](https://my.uclaextension.edu/courses/55582/assignments/987734?module_item_id=3496629) when your group is ready. It is due October 12th at 11:59 pm. 
 </span>
 
 
 ## Hands on Lab
 First, grab the course material, and "pull" it into your JupyterHub space:
 
-* [Git related](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Git%20related/01%20-%20Getting%20started%20every%20week.md) 
+* [Git related](https://github.com/cgiamarino9/PubAff405_F26/blob/main/Git%20related/01%20-%20Getting%20started%20every%20week.md) 
 
 <small>Note that you have to do this at the start of every lecture to get the latest material.
 </small>
 
 
-# Assignments (due 11:59 pm, Monday, April 20th the day before class)
+# Assignments (due 11:59 pm, Monday, October 12th the day before class)
 
 
 ## Individual assignment: Data Exploration
@@ -97,13 +97,13 @@ First, grab the course material, and "pull" it into your JupyterHub space:
 
 In order to pull and push content to GitHub, you must first create a token, which will serve as your password. Refer to this tutorial to create your token:
 
-* [How to create a token](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Git%20related/Create%20a%20token.md)
+* [How to create a token](https://github.com/cgiamarino9/PubAff405_F26/blob/main/Git%20related/Create%20a%20token.md)
 
 ### Clone your repo
 
 This is your first code assignment submission. Before you begin, create a clone of your repo in JupyterHub.
 
-* [How to clone your repo into JupyterHub](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Git%20related/Clone%20repo%20to%20hub.md)
+* [How to clone your repo into JupyterHub](https://github.com/cgiamarino9/PubAff405_F26/blob/main/Git%20related/Clone%20repo%20to%20hub.md)
 
 ### Submission guidelines:
 
@@ -117,9 +117,9 @@ Download git just in case
 * [Git for Windows and Mac installation](https://github.com/git-guides/install-git)
 * [Tutorial for cloning, pushing, and pulling on JupyterLab 'ReviewNB'](https://blog.reviewnb.com/jupyterlab-git-extension/)
 * [Clone, push, pull from JupyterLab to GitHub](https://youtu.be/Rbg2YMWoGGo?si=LJAYsXpcHHoHC4Sa).
-* [Clone, push, pull from JupyterLab to GitHub; Chris' directions](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Git%20related/03%20-%20Uploading%20to%20your%20repo.md)
-* [Push, pull using Terminal](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Git%20related/Commit%20and%20push.md)
-* [Creating a Conda Environment if certain libraries are not working](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Git%20related/New%20Conda%20environment.md)
+* [Clone, push, pull from JupyterLab to GitHub; Chris' directions](https://github.com/cgiamarino9/PubAff405_F26/blob/main/Git%20related/03%20-%20Uploading%20to%20your%20repo.md)
+* [Push, pull using Terminal](https://github.com/cgiamarino9/PubAff405_F26/blob/main/Git%20related/Commit%20and%20push.md)
+* [Creating a Conda Environment if certain libraries are not working](https://github.com/cgiamarino9/PubAff405_F26/blob/main/Git%20related/New%20Conda%20environment.md)
 **Please note**: it is recommended that you only upload your data and start your notebooks for individual assignments on JupyterLab and push them to GitHub. GitHub is where you publish your final JupyterLab notebooks. If you start working on GitHub and forget when you did upload to GitHub, you will start running into pull and push errors. 
 * [Creating personal (classic) access token on GitHub](https://medium.com/@mbohlip/how-to-generate-a-classic-personal-access-token-in-github-04985b5432c7)
 
@@ -162,11 +162,11 @@ Save your notebook.
 
 Commit your changes to your GitHub repo by following these instructions:
 
-* [How to commit and push to your repo](https://github.com/cgiamarino9/PubAff405_S25/blob/main/Git%20related/Commit%20and%20push.md)
+* [How to commit and push to your repo](https://github.com/cgiamarino9/PubAff405_F25/blob/main/Git%20related/Commit%20and%20push.md)
 
 ### Submit your assignment 
 
-The last step is to submit your assignment to the class repo discussion section [here](https://my.uclaextension.edu/courses/58836/assignments/1067884).
+The last step is to submit your assignment to the class repo discussion section [here](https://my.uclaextension.edu/courses/61095/assignments/1082444).
 
 # Project Assignment #1
 ## <b>Project Proposal</b>
@@ -213,4 +213,4 @@ Next, identify and download at least two datasets that you believe can guide you
 *   A concluding paragraph of what insights you expect to gain from your research
 
 ### Step 5: Submit
-Submit your assignment [here](https://my.uclaextension.edu/courses/58836/assignments/1067885)
+Submit your assignment [here](https://my.uclaextension.edu/courses/61095/assignments/1082448)

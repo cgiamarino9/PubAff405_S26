@@ -27,9 +27,9 @@ Open Data Exploration
 
 </b>
 
-[Recurring Zoom link](https://cpp.zoom.us/j/87872856686)
+[Recurring Zoom link](https://cpp.zoom.us/j/87579182940)
 
-April 21, 2026
+October 20, 2026
 
 
 ##
@@ -50,7 +50,7 @@ If you would like to meet with me for 30 minutes to discuss your proposal, data 
 ## Hands on Lab
 * First, grab the course material, and "pull" it into your JupyterHub space:
 
-* [Git related](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Git%20related/01%20-%20Getting%20started%20every%20week.md) 
+* [Git related](https://github.com/cgiamarino9/PubAff405_F26/blob/main/Git%20related/01%20-%20Getting%20started%20every%20week.md) 
 
 * <small>Note that you have to do this at the start of every lecture to get the latest material.</small>
 
@@ -67,7 +67,7 @@ Mapping arrests
 </b>
 
 
-# Assignments (due 11:59pm  Monday, April 28th the day before class)
+# Assignments (due 11:59pm  Monday, October 26th, 2026, the day before class)
 
 
 ## Mini Project Assignment
@@ -95,7 +95,7 @@ Include the following sections:
 
 ### Submit
 
-Resubmit your updated proposal [here](https://my.uclaextension.edu/courses/58836/assignments/1067885).
+Resubmit your updated proposal [here](https://my.uclaextension.edu/courses/61095/assignments/1082448).
 
 ## Individual Coding Assignment
 
@@ -121,6 +121,6 @@ This assignment can be as long or as short as you desire. It is meant to review 
 - upload your notebook to your GitHub account
 
 ### Assignment submission link
-Submit a link to your notebook [here](https://my.uclaextension.edu/courses/55582/assignments/987738?module_item_id=3496642).
+Submit a link to your notebook [here](https://my.uclaextension.edu/courses/61095/assignments/1082449).
 
 

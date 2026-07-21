@@ -9,4 +9,4 @@ For this project assignment, you will create and submit a Jupyter Notebook. The 
 5.   Run the cells in the notebook, and make sure the notebook "reads" from top to bottom, telling a story
 6.   At the end of the notebook, include a markdown cell that identifies each member of the group and describes their contribution to this assignment (one sentence each)
 7.   Upload the Jupyter Notebook to your project repo
-8.   Email me when you are done
+8.   Upload the GitHub URL to Canvas when you are done
