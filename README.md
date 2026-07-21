@@ -1,16 +1,16 @@
 # Public Affairs 405: Introduction to GIS and Spatial Data Science
 
-Spring 2026, March 31st to June 9th, 2026
+Fall 2026, September 29 to December 8, 2026
 
 Tuesdays online from 6 pm to 9 pm
 
-[Recurring Zoom link](https://cpp.zoom.us/j/87872856686)
+[Recurring Zoom link](https://cpp.zoom.us/j/87579182940)
 
 ## Course format:
 
 **Live-Online/Synchronous**
 
-This course will meet in real time via Zoom. Classes meet at regularly scheduled times and you will have the opportunity to interact with your instructor and your classmates. Just like a regular on-campus class, you are expected to attend and participate in discussions.
+This course will meet in real time via Zoom. Classes meet at regularly scheduled times and you will have the opportunity to interact with your instructor and your classmates. Just like a regular on-campus class, you are expected to attend and participate in discussions. Recordings will be provided in the [Recordings folder]() if you fall behind.
 
 **
 
@@ -30,7 +30,7 @@ Ben Winjum (bwinjum@ucla.edu)
 
 ## Office Hours: 
 
-* Chris, Wednesdays, 6 - 7 pm, Virtual via [Recurring Zoom link](https://cpp.zoom.us/j/89536493197)
+* Virtual via [Recurring Zoom link](https://cpp.zoom.us/j/87579182940). Please email me a time that you are able to meet. 
 * If no students show up after the first 20 minutes and I do not receive an email beforehand about when you will attend office hours, I will end the meeting early.
 * If you want to attend during a specific time of office hours, please email me beforehand. 
 * If you need to meet another day/evening of the week virtually, please send me an email. 
@@ -60,13 +60,14 @@ Specifically, students will learn to:
 - Learn to visualize data spatially to communicate the importance of place-based informatics
 - Learn to produce publication-ready scholarly materials in the form of tables, charts, and maps
 
-### Zoom, Slack, and Canvas
+### Zoom, Slack, and Canvas (plus VS Code and Copilot)
 
 The following applications must be launched at the start of every class session:
 
 - Zoom: In order for instructors to be able to troubleshoot, or to demonstrate solutions to problems, it is constructive for students to share their screens with the class. In addition, in-class presentations (midterms, finals) will use a shared zoom screen to present content to the class.
-- Slack: Sharing resources, code snippets, and general commentary on class material is better situated in Slack, as unlike the zoom chat, the records are archived and made available after class. Click [Slack Invite link here](https://join.slack.com/t/pa405spring2026/shared_invite/zt-3rtxnf1kk-QDuRmkh0xm3K_L7UXlydOA)
-- Canvas: I encourage students to interact via the Discussion board on the course Canvas website to troubleshoot code, 
+- Slack: Sharing resources, code snippets, and general commentary on class material is better situated in Slack, as unlike the zoom chat, the records are archived and made available after class. Click [Slack Invite link here](https://join.slack.com/t/pa405fall2026/shared_invite/zt-3rtxnf1kk-QDuRmkh0xm3K_L7UXlydOA)
+- Canvas: I encourage students to interact via the Discussion board on the course Canvas website to troubleshoot code. 
+- Additionally, you can download [VS Code](https://code.visualstudio.com/) and sign up for a complimentary [GitHub Copilot account to troubleshoot your assignments with an AI coding assistant](https://github.com/features/copilot/ai-code-editor). Please prompt AI to troubleshoot code issues and provide documentation and ideas. Do not let it do your work for you. Understanding the code logic is still important. 
 
 ## Inspirations
 
@@ -76,15 +77,15 @@ Third, we have taken the liberty (with permission) to borrow ideas and materials
 
 ## Course materials
 
-The course will almost entirely be conducted on Jupyter Notebooks. We will access JupyterLab notebooks and GitHub through Anaconda [an open source Python portal](https://www.anaconda.com/download). We will set up [JupyterLab](https://docs.jupyter.org/en/latest/), a local Jupyter Notebook environment for this class. To set up your JupyterLab locally on your laptop, please follow this [tutorial](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Git%20related/01%20-%20Getting%20started%20every%20week.md). Here are links to the course materials:
+The course will almost entirely be conducted on Jupyter Notebooks. We will access JupyterLab notebooks and GitHub through Anaconda [an open source Python portal](https://www.anaconda.com/download). We will set up [JupyterLab](https://docs.jupyter.org/en/latest/), a local Jupyter Notebook environment for this class. To set up your JupyterLab locally on your laptop, please follow this [tutorial](https://github.com/cgiamarino9/PubAff405_F26/blob/main/Git%20related/01%20-%20Getting%20started%20every%20week.md#installing-anaconda-github-and-jupyter-lab-windows). Here are links to the course materials:
 
-* [Course syllabus and website](https://github.com/cgiamarino9/PubAff405_S26?tab=readme-ov-file#public-affairs-405-introduction-to-gis-and-spatial-data-science)
+* [Course syllabus and website](https://github.com/cgiamarino9/PubAff405_F26#public-affairs-405-introduction-to-gis-and-spatial-data-science)
 * [Downloading Anaconda](https://www.anaconda.com/download) 
 * [Running JupyterLab through Anaconda](https://numeconcopenhagen.netlify.app/guides/jupyterlab/) 
 * [Installing GitHub on Anaconda to clone the course repository and your own repository](https://github.com/jupyterlab/jupyterlab-git)
 * [Use pip install for Git extension in Anaconda Prompt (Windows) or Terminal (Mac)](https://github.com/jupyterlab/jupyterlab-git?tab=readme-ov-file#install)
 * [Fast conda installs alternative](https://www.anaconda.com/blog/conda-is-fast-now)
-* [Course slack](https://join.slack.com/t/pa405spring2026/shared_invite/zt-3rtxnf1kk-QDuRmkh0xm3K_L7UXlydOA)
+* [Course slack](https://join.slack.com/t/pa405fall2026/shared_invite/zt-3rtxnf1kk-QDuRmkh0xm3K_L7UXlydOA)
 
 Weekly course materials, including presentations, interactive notebooks (.ipynb), and data will be made available through a course github repository (here) that you will interact with through your laptop via Anaconda, JupyterLab, and GitHub.
 
@@ -139,7 +140,7 @@ Late assignments will be marked down one grade for each day it is late. For exam
 *   If you do not have a GitHub account, create one for the class
 	*   [GitHub](https://github.com/)
 * 	As a student, you have free access to GitHub Education and GitHub Copilot (AI coding assistance). Please take advantage of these resources by practicing in JupyterHub and VS Code (python text editor)
-	* [GitHub Education](https://github.com/education/students)
+	* [GitHub Education](https://github.com/education/students). It also looks like you can sign up for a [free GitHub Copilot account](https://github.com/features/copilot/ai-code-editor). 
 	* You can utilize [VS Code](https://code.visualstudio.com/) to troubleshoot python notebooks and utilize GitHub Copilot AI coding assistance. 
 *   Make sure you download Anaconda, install the GitHub extension, and clone the course repository. Follow the steps below:
 	*   Download [Anaconda](https://www.anaconda.com/download).
@@ -149,16 +150,16 @@ Late assignments will be marked down one grade for each day it is late. For exam
 
 | Week | Topic |
 |---- | ----- |
-| Week 1 | [Introduction to spatial data science](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Weeks/Week01%20Intro/readme.md) |
-| Week 2 | [Data in Urban Studies: The challenge in data acquisition](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Weeks/Week02%20Spatial%20Data%20Exploration/readme.md)<br> → [Project/Group assignment #1: Project Proposal](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Project%20Assignments/ProjectAssignment1.md) |
-| Week 3 | [Understanding communities: Census data profiles](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Weeks/Week03%20Census%20Data/readme.md)<br> →   [Project/group assignment #2: Census Data Exploration](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Project%20Assignments/ProjectAssignment2.md) |
-| Week 4 | [Open Data and APIs](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Weeks/Week04%20Open%20data/readme.md) |
-| Week 5 | [Open street maps](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Weeks/Week05%20Open%20Street%20Map/readme.md) |
-| Week 6 | [Mid-terms](https://github.com/cgiamarino9/PubAff405_S26/tree/main/Weeks/Week06#todays-agenda) <br> →[Midterm guidelines and examples](https://github.com/cgiamarino9/PubAff405_S26/tree/main/Midterm%20and%20Finals#midterms-20-of-your-final-grade)|
-| Week 7 | [Geocoding, multiple overlays, and functions](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Weeks/Week07%20Isochrone%20Maps/readme.md)<br> →  [Project/group assignment #3: Data Visualization](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Project%20Assignments/ProjectAssignment3.md) |
-| Week 8 | [Spatial statistics](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Weeks/Week08%20Spatial%20Autocorrelation/readme.md) |
-| Weeks 9-10 | [Index Creation and Final Project Workshop](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Weeks/Week9-Index%20creation/readme.md)<br> →  [Project/group assignment #4: Spatial Analysis](https://github.com/cgiamarino9/PubAff405_S26/blob/main/Project%20Assignments/ProjectAssignment4.md) |
-| Finals Week | [Finals](https://github.com/cgiamarino9/PubAff405_S26/tree/main/Midterm%20and%20Finals#final-project-30-of-your-final-grade) |
+| Week 1 | [Introduction to spatial data science](https://github.com/cgiamarino9/PubAff405_F26/tree/main/Weeks/Week01%20Intro) |
+| Week 2 | [Data in Urban Studies: The challenge in data acquisition](https://github.com/cgiamarino9/PubAff405_F26/tree/main/Weeks/Week02%20Spatial%20Data%20Exploration#week-2)<br> → [Project/Group assignment #1: Project Proposal](https://github.com/cgiamarino9/PubAff405_F26/blob/main/Project%20Assignments/ProjectAssignment1.md#project-assignment-1-project-proposal) |
+| Week 3 | [Understanding communities: Census data profiles](https://github.com/cgiamarino9/PubAff405_F26/blob/main/Weeks/Week03%20Census%20Data/readme.md)<br> →   [Project/group assignment #2: Census Data Exploration](https://github.com/cgiamarino9/PubAff405_F26/blob/main/Project%20Assignments/ProjectAssignment2.md) |
+| Week 4 | [Open Data and APIs](https://github.com/cgiamarino9/PubAff405_F26/blob/main/Weeks/Week04%20Open%20data/readme.md) |
+| Week 5 | [Open street maps](https://github.com/cgiamarino9/PubAff405_F26/blob/main/Weeks/Week05%20Open%20Street%20Map/readme.md) |
+| Week 6 | [Mid-terms](https://github.com/cgiamarino9/PubAff405_F26/tree/main/Weeks/Week06#todays-agenda) <br> →[Midterm guidelines and examples](https://github.com/cgiamarino9/PubAff405_F26/tree/main/Midterm%20and%20Finals#midterms-20-of-your-final-grade)|
+| Week 7 | [Geocoding, multiple overlays, and functions](https://github.com/cgiamarino9/PubAff405_F26/blob/main/Weeks/Week07%20Isochrone%20Maps/readme.md)<br> →  [Project/group assignment #3: Data Visualization](https://github.com/cgiamarino9/PubAff405_F26/blob/main/Project%20Assignments/ProjectAssignment3.md) |
+| Week 8 | [Spatial statistics](https://github.com/cgiamarino9/PubAff405_F26/blob/main/Weeks/Week08%20Spatial%20Autocorrelation/readme.md) |
+| Weeks 9-10 | [Index Creation and Final Project Workshop](https://github.com/cgiamarino9/PubAff405_F26/blob/main/Weeks/Week9-Index%20creation/readme.md)<br> →  [Project/group assignment #4: Spatial Analysis](https://github.com/cgiamarino9/PubAff405_F26/blob/main/Project%20Assignments/ProjectAssignment4.md) |
+| Finals Week | [Finals](https://github.com/cgiamarino9/PubAff405_F26/tree/main/Midterm%20and%20Finals#final-project-30-of-your-final-grade) |
 
 ## How to ask a technical question
 
